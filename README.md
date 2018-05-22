@@ -16,14 +16,14 @@
   --->
 
 <h2>Project overview http://digitalathlete.org</h2>
-
-This repository contains models and MATLAB figures from the following publications:
-
-1. models/grftrain_171214215406095_R_predict_model.Rda
-Predicting athlete ground reaction forces and moments from motion capture
-https://link.springer.com/article/10.1007/s11517-018-1802-7
-Format reference https://cran.r-project.org/web/packages/spls/index.html
-
+<br>
+This repository contains models and MATLAB figures from the following publications:<br>
+<br>
+1. models/grftrain_171214215406095_R_predict_model.Rda<br>
+Predicting athlete ground reaction forces and moments from motion capture<br>
+https://link.springer.com/article/10.1007/s11517-018-1802-7<br>
+Format reference https://cran.r-project.org/web/packages/spls/index.html<br>
+<br>
 William Johnson<br>
 bill@johnsonwr.com<br>
 May 2018<br>

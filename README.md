@@ -15,7 +15,7 @@
   ---      n/a   wrj    22may2018 alpha release 
   --->
 
-#Project overview http://digitalathlete.org
+<h2>Project overview http://digitalathlete.org</h2>
 
 This folder contains models used by the following publications:
 

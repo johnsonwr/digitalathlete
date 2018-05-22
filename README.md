@@ -24,5 +24,5 @@ This folder contains models used by the following publications:
 https://link.springer.com/article/10.1007/s11517-018-1802-7
 
 William Johnson<br>
-bill@johnsonwr.com
-May 2018
+bill@johnsonwr.com<br>
+May 2018<br>

@@ -15,13 +15,14 @@
   ---      n/a   wrj    22may2018 alpha release 
   --->
 
-Project overview http://digitalathlete.org
+#Project overview http://digitalathlete.org
 
 This folder contains models used by the following publications:
 
-1. Predicting athlete ground reaction forces and moments from motion capture
-<model_name>
+1. grftrain_171214215406095_R_predict_model.Rda
+Predicting athlete ground reaction forces and moments from motion capture
 https://link.springer.com/article/10.1007/s11517-018-1802-7
+Format reference https://cran.r-project.org/web/packages/spls/index.html
 
 William Johnson<br>
 bill@johnsonwr.com<br>

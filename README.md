@@ -22,6 +22,7 @@
 <h2>Project overview http://digitalathlete.org</h2>
 <br>
 This repository contains models from the publications associated with this project.<br>
+<br>
 Large files have been split into 100MB pieces to meet GitHub requirements.<br>
 http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html<br>
 <br>

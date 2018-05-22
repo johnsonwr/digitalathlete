@@ -21,7 +21,7 @@
 
 <h2>Project overview http://digitalathlete.org</h2>
 <br>
-This repository contains models and MATLAB figures from the following publications:<br>
+This repository contains models from the following publications:<br>
 <br>
 1. Predicting athlete ground reaction forces and moments from motion capture<br>
 https://link.springer.com/article/10.1007/s11517-018-1802-7<br>

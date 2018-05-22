@@ -27,7 +27,7 @@ http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html<br>
 <br>
 1. Predicting athlete ground reaction forces and moments from motion capture<br>
 https://link.springer.com/article/10.1007/s11517-018-1802-7<br>
-models/grftrain_171214215406095_R_predict_model_, recombine with cat:<br>
+models/grftrain_171214215406095_R_predict_model_<br>
 cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda<br>
 Model format reference.<br>
 https://cran.r-project.org/web/packages/spls/index.html<br>

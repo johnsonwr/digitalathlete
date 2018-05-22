@@ -23,6 +23,6 @@ This folder contains models used by the following publications:
 <model_name>
 https://link.springer.com/article/10.1007/s11517-018-1802-7
 
-William Johnson
+William Johnson<br>
 bill@johnsonwr.com
 May 2018

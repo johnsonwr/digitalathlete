@@ -21,11 +21,11 @@
 
 <h2>Project overview http://digitalathlete.org</h2>
 <br>
-This repository contains supplementary material from the publications associated with this project<br>
+The digitalathlete repository contains supplementary material from the publications associated with this research project<br>
 <br>
 Large files have been split into 100MB pieces to meet GitHub requirements<br>
 http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html<br>
-Caution, the models subfolder is large<br>
+Caution, the models subfolder is large (>2GB)<br>
 <br>
 <h3>Predicting athlete ground reaction forces and moments from motion capture</h3>
 https://link.springer.com/article/10.1007/s11517-018-1802-7<br>

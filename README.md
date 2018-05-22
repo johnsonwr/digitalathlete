@@ -21,17 +21,17 @@
 
 <h2>Project overview http://digitalathlete.org</h2>
 <br>
-This repository contains models from the publications associated with this project.<br>
+This repository contains models from the publications associated with this project<br>
+Caution, some of the files contained are large>br>
 <br>
-Large files have been split into 100MB pieces to meet GitHub requirements.<br>
+Large files have been split into 100MB pieces to meet GitHub requirements<br>
 http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html<br>
 <br>
 1. Predicting athlete ground reaction forces and moments from motion capture<br>
 https://link.springer.com/article/10.1007/s11517-018-1802-7<br>
 models/grftrain_171214215406095_R_predict_model_<br>
 cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda<br>
-Model format reference.<br>
-https://cran.r-project.org/web/packages/spls/index.html<br>
+Model format reference https://cran.r-project.org/web/packages/spls/index.html<br>
 <br>
 William Johnson<br>
 bill@johnsonwr.com<br>

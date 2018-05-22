@@ -10,7 +10,11 @@
   --- 3. Last-Updated-By, Email-Address
   ---      William JOHNSON, bill@johnsonwr.com
   ---
-  --- 4. Modification-History
+  --- 4. Notes
+  ---      https://guides.github.com/features/mastering-markdown/
+  ---      https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  ---
+  --- 5. Modification-History
   ---      Build Author Date      Change
   ---      n/a   wrj    22may2018 alpha release 
   --->

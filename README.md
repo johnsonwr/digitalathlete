@@ -1,7 +1,7 @@
 <!---
   ---
   --- 1. Filename, Creation-Date
-  ---      README.md, 22may2018
+  ---      digitalathlete/README.md, 22may2018
   ---
   --- 2. Original-Author, Email-Address
   ---      Copyright (c) MMXVIII
@@ -17,9 +17,9 @@
 
 <h2>Project overview http://digitalathlete.org</h2>
 
-This folder contains models used by the following publications:
+This repository contains models and MATLAB figures from the following publications:
 
-1. grftrain_171214215406095_R_predict_model.Rda
+1. models/grftrain_171214215406095_R_predict_model.Rda
 Predicting athlete ground reaction forces and moments from motion capture
 https://link.springer.com/article/10.1007/s11517-018-1802-7
 Format reference https://cran.r-project.org/web/packages/spls/index.html

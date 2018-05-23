@@ -42,7 +42,7 @@ CNN models</h3>
 <tr><th align="left">MATLAB figures</th><th align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</th></tr>
 </table>
 R model format reference https://cran.r-project.org/web/packages/spls/index.html<br>
-The R model has been <b>split</b> (GitHub requirements), to reintegate use <b>cat</b><br>
+GitHub file size limits require the R model to be <b>split</b>, to reintegate use <b>cat</b><br>
 
 ```
 cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda

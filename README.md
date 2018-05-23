@@ -26,10 +26,10 @@ The digitalathlete repository contains supplementary material from publications 
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
 
 <table>
-<tr><th>Paper</th><th>https://link.springer.com/article/10.1007/s11517-018-1802-7</th></tr>
-<tr><th>Video presentation</th><th>http://bit.ly/2kcgXrw</th></tr>
-<tr><th>Models</th><th>https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB)</th></tr>
-<tr><th>MATLAB figures</th><th>https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</th></tr>
+<tr><th align="left">Paper</th><th align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</th></tr>
+<tr><th align="left">Video presentation</th><th align="left">http://bit.ly/2kcgXrw</th></tr>
+<tr><th align="left">Models</th><th align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB)</th></tr>
+<tr><th align="left">MATLAB figures</th><th align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</th></tr>
 </table>
 
 The R model has been <b>split</b> (GitHub requirements), to reintegate use <b>cat</b><br>

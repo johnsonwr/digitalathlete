@@ -35,9 +35,11 @@ MATLAB figures | https://github.com/johnsonwr/digitalathlete/tree/master/study1/
 Video presentation | http://bit.ly/2kcgXrw<br>
 <br>
 The R model has been split, to reintegate use cat.
+
 ```
 cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda
 ```
+
 Model format reference https://cran.r-project.org/web/packages/spls/index.html<br>
 <br>
 William Johnson<br>

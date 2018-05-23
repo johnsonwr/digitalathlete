@@ -43,5 +43,5 @@ CNN models</h3>
 <br>
 William Johnson<br>
 
-[bill@johnsonwr.com]mailto:bill@johnsonwr.com
+bill@johnsonwr.com
 May 2018<br>

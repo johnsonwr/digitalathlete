@@ -28,12 +28,13 @@ http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html<br>
 Caution, https://github.com/johnsonwr/digitalathlete/tree/master/study1/models folder is large (>2GB)<br>
 <br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
+
 | --- | --- |
-| Paper | https://link.springer.com/article/10.1007/s11517-018-1802-7 |<br>
-| Models | https://github.com/johnsonwr/digitalathlete/tree/master/study1/models |<br>
-| MATLAB figures | https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures |<br>
-| Video presentation | http://bit.ly/2kcgXrw |<br>
-<br>
+| Paper | https://link.springer.com/article/10.1007/s11517-018-1802-7 |
+| Models | https://github.com/johnsonwr/digitalathlete/tree/master/study1/models |
+| MATLAB figures | https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures |
+| Video presentation | http://bit.ly/2kcgXrw |
+
 The R model has been split, to reintegate use cat<br>
 Model format reference https://cran.r-project.org/web/packages/spls/index.html<br>
 

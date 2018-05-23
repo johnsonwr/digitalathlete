@@ -21,7 +21,7 @@
 
 <h2>Project overview http://digitalathlete.org</h2>
 <br>
-The digitalathlete repository contains supplementary material from publications associated with this research project<br>
+This digitalathlete repository contains supplementary material from publications associated with the research project<br>
 <br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
 
@@ -32,8 +32,8 @@ The digitalathlete repository contains supplementary material from publications 
 <tr><th align="left">MATLAB figures</th><th align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</th></tr>
 </table>
 
-The R model has been <b>split</b> (GitHub requirements), to reintegate use <b>cat</b><br>
 R model format reference https://cran.r-project.org/web/packages/spls/index.html<br>
+The R model has been <b>split</b> (GitHub requirements), to reintegate use <b>cat</b><br>
 
 ```
 cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda

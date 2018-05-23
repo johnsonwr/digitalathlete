@@ -27,10 +27,10 @@ The digitalathlete repository contains supplementary material from publications 
 
 <table>
 <tr><th>Paper</th><th>https://link.springer.com/article/10.1007/s11517-018-1802-7</th></tr>
+<tr><th>Video presentation</th><th>http://bit.ly/2kcgXrw</th></tr>
+<tr><th>Models</th><th>https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB)</th></tr>
+<tr><th>MATLAB figures</th><th>https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</th></tr>
 </table>
-| Models | https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB>|<br>
-| MATLAB figures | https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures |<br>
-| Video presentation | http://bit.ly/2kcgXrw |<br>
 
 The R model has been <b>split</b> (GitHub requirements), to reintegate use <b>cat</b><br>
 R model format reference https://cran.r-project.org/web/packages/spls/index.html<br>

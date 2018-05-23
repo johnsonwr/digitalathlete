@@ -25,7 +25,9 @@ The digitalathlete repository contains supplementary material from publications 
 <br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
 
-
+<table>
+  <tr><th>header</th><th>header</th></tr>
+</table>
 |header|header|<br>
 |---|---|<br>
 | Paper | https://link.springer.com/article/10.1007/s11517-018-1802-7 |<br>

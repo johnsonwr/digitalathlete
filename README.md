@@ -21,13 +21,13 @@
 
 <h2>Project overview http://digitalathlete.org</h2>
 <br>
-The digitalathlete repository contains supplementary material from the publications associated with this research project<br>
+The digitalathlete repository contains supplementary material from publications associated with this research project<br>
 <br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
 
 
-| header | header |<br>
-| --- | --- |<br>
+|header|header|<br>
+|---|---|<br>
 | Paper | https://link.springer.com/article/10.1007/s11517-018-1802-7 |<br>
 | Models | https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB>|<br>
 | MATLAB figures | https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures |<br>

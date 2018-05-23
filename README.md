@@ -43,5 +43,5 @@ CNN models</h3>
 <br>
 William Johnson<br>
 
-bill@johnsonwr.com?subject=[GitHub]%20Site%20Feedback
+(bill@johnsonwr.com?subject=[GitHub]%20Site%20Feedback)
 May 2018<br>

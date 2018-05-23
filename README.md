@@ -21,7 +21,7 @@
 
 <h2>Project overview http://digitalathlete.org</h2>
 <br>
-This digitalathlete repository contains digital supplementary material from publications associated with the research project<br>
+This digitalathlete repository contains supplementary material from publications associated with the research project<br>
 <br>
 William Johnson<br>
 

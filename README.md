@@ -42,5 +42,7 @@ CNN models</h3>
 <i>In review</i><br><br>
 <br>
 William Johnson<br>
-[URL](mailto:bill@johnsonwr.com)<br>
+
+[URL](mailto:bill@johnsonwr.com)
+
 May 2018<br>

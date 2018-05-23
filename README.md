@@ -39,7 +39,7 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 
 <h3>Study 2: Predicting athlete ground reaction forces and moments from spatio-temporal driven
 CNN models</h3>
-<i>In review</i>
+<i>In review</i><br><br>
 <br>
 William Johnson<br>
 bill@johnsonwr.com<br>

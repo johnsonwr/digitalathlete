@@ -31,7 +31,7 @@ May 2018<br>
 
 <h3>Study 2: Predicting athlete ground reaction forces and moments from spatio-temporal driven
 CNN models</h3>
-<i>In review</i><br><br>
+<i>In review</i><br>
 <br>
 
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>

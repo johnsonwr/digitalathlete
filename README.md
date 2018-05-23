@@ -37,9 +37,9 @@ CNN models</h3>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
 <tr><th align="left">Paper</th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
-<tr><th align="left">Video presentation</th><th align="left">http://bit.ly/2kcgXrw</th></tr>
-<tr><th align="left">Models</th><th align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB)</th></tr>
-<tr><th align="left">MATLAB figures</th><th align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</th></tr>
+<tr><th align="left">Video presentation</th><td align="left">http://bit.ly/2kcgXrw</td></tr>
+<tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB)</td></tr>
+<tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 </table>
 R model format reference https://cran.r-project.org/web/packages/spls/index.html<br>
 GitHub file size limits require the R model to be <b>split</b>, to reintegate use <b>cat</b><br>

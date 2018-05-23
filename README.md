@@ -22,6 +22,7 @@
 <h2>Project overview http://digitalathlete.org</h2>
 <br>
 This digitalathlete repository contains supplementary material from publications associated with the research project<br>
+[William Johnson](bill@johnsonwr.com?subject=[GitHub]%20Site%20Feedback), May 2018<br>
 <br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
@@ -43,5 +44,4 @@ CNN models</h3>
 <br>
 William Johnson<br>
 
-[William Johnson](bill@johnsonwr.com?subject=[GitHub]%20Site%20Feedback)
-May 2018<br>
+[William Johnson](bill@johnsonwr.com?subject=[GitHub]%20Site%20Feedback), May 2018<br>

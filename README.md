@@ -33,9 +33,20 @@ May 2018<br>
 
 <h3>Study 2: Predicting athlete ground reaction forces and moments from spatio-temporal driven
 CNN models</h3>
-<i>In review</i><br>
-<br>
+<table>
+<tr><th align="left">Paper</th><td align="left"><i>In review</i></td></tr>
+<tr><th align="left">Video presentation</th><td align="left"><i>In review</i></td></tr>
+<tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/models</td></tr>
+<tr><th align="left">Prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
+<tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
+</table>
+CaffeNet reference https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet<br>
 
+```
+cat #cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_mcrnet.caffemodel_j01 # reconstitute CaffeNet model 1
+```
+
+<br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
 <tr><th align="left">Paper</th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
@@ -43,7 +54,7 @@ CNN models</h3>
 <tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB)</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 </table>
-R model format reference https://cran.r-project.org/web/packages/spls/index.html<br>
+R SPLS reference https://cran.r-project.org/web/packages/spls/index.html<br>
 
 ```
 cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda # reconstitute R model

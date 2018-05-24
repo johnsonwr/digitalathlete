@@ -23,7 +23,7 @@
 <br>
 Supplementary material from publications associated with the research project<br>
 <br>
-Caution, the model files are large, you may not want to pull the complete repository<br>
+Caution, model files are large, you may not want to pull the complete repository<br>
 GitHub limits file sizes to 100MB, files larger than this have been broken up using <a  href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html" target="_blank"><b>split</b></a>, instructions to reconstitute files are given inline<br>
 <br>
 William Johnson @johnsonwr<br>

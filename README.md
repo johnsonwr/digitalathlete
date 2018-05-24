@@ -35,12 +35,13 @@ May 2018<br>
 CNN models</h3>
 <table>
 <tr><th align="left">Paper</th><td align="left"><i>In review</i></td></tr>
-<tr><th align="left">Video presentation</th><td align="left"><i>In review</i></td></tr>
+<tr><th align="left">Data visualization</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/models</td></tr>
 <tr><th align="left">Prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
 </table>
 CaffeNet reference https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet<br>
+<br>
 
 ```
 cat #cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_mcrnet.caffemodel_j01 # reconstitute CaffeNet model 1
@@ -55,6 +56,7 @@ cat #cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_18050509240
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 </table>
 R SPLS reference https://cran.r-project.org/web/packages/spls/index.html<br>
+<br>
 
 ```
 cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda # reconstitute R model

@@ -19,7 +19,7 @@
   ---      n/a   wrj    22may2018 alpha release 
   --->
 
-<h2>Project overview http://digitalathlete.org</h2>
+<h2>http://digitalathlete.org</h2>
 <br>
 This digitalathlete repository contains supplementary material from publications associated with the research project<br><br>
 Caution, the model files are large, you may not want to pull the complete repository in one go<br>
@@ -37,7 +37,7 @@ CNN models</h3>
 <tr><th align="left">Paper</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">Data visualization</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
-<tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/models<br>
+<tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br>
 <br>
 
 ```
@@ -56,7 +56,7 @@ cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_
 <tr><th align="left">Paper</th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
 <tr><th align="left">Video presentation</th><td align="left">http://bit.ly/2kcgXrw</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
-<tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB)<br>
+<tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (1.9GB)<br>
 <br>
   
 ```

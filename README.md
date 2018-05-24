@@ -23,7 +23,7 @@
 <br>
 This digitalathlete repository contains supplementary material from publications associated with the research project<br>
 <br>
-William Johnson<br>
+William Johnson @johnsonwr<br>
 
 bill@johnsonwr.com<br>
 May 2018<br>

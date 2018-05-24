@@ -54,7 +54,7 @@ cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_
 <br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
-<tr><th align="left">Keywords</th><td align="left">Action recognition &#00B7; Wearable sensors &#00B7; Computer simulation</td></tr>
+<tr><th align="left">Keywords</th><td align="left">Action recognition &#0B7; Wearable sensors &#0B7; Computer simulation</td></tr>
 <tr><th align="left">Paper</th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
 <tr><th align="left">Video presentation</th><td align="left">http://bit.ly/2kcgXrw</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>

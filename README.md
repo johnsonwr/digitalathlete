@@ -36,16 +36,19 @@ CNN models</h3>
 <table>
 <tr><th align="left">Paper</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">Data visualization</th><td align="left"><i>In review</i></td></tr>
-<tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/models</td></tr>
-<tr><th align="left">Prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
-<tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
-</table>
-CaffeNet reference https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet<br>
+<tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/models<br>
 <br>
 
 ```
 cat #cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_mcrnet.caffemodel_j01 # reconstitute CaffeNet model 1
 ```
+
+</td></tr>
+<tr><th align="left">Prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
+<tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
+<tr><th align="left">CaffeNet reference</th><td align="left">https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
+</table>
+<br>
 
 <br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>

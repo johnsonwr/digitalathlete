@@ -40,7 +40,7 @@ CNN models</h3>
 <br>
 
 ```
-cat #cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_mcrnet.caffemodel_j01 # reconstitute CaffeNet model 1
+cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_mcrnet.caffemodel_j01 # reconstitute CaffeNet model 1
 ```
 
 </td></tr>

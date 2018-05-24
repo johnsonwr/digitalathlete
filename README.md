@@ -52,7 +52,7 @@ cat #cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_18050509240
 <table>
 <tr><th align="left">Paper</th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
 <tr><th align="left">Video presentation</th><td align="left">http://bit.ly/2kcgXrw</td></tr>
-<tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB)
+<tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (2GB)<br>
 <br>
   
 ```
@@ -63,8 +63,3 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 </table>
 R SPLS reference https://cran.r-project.org/web/packages/spls/index.html<br>
-<br>
-
-```
-cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda # reconstitute R model
-```

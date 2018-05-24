@@ -21,7 +21,7 @@
 
 <h2>Project overview http://digitalathlete.org</h2>
 <br>
-This digitalathlete repository contains supplementary material from publications associated with the research project<br><bt>
+This digitalathlete repository contains supplementary material from publications associated with the research project<br><br>
 Caution, the model files are large, you may not want to pull the complete repository in one go<br>
 GitHub limits file sizes to 100MB, files larger than this have been broken up using <b>split</b>, instructions to reconstitute files are contained inline<br>
 <br>

@@ -21,7 +21,9 @@
 
 <h2>Project overview http://digitalathlete.org</h2>
 <br>
-This digitalathlete repository contains supplementary material from publications associated with the research project<br>
+This digitalathlete repository contains supplementary material from publications associated with the research project<br><bt>
+Caution, the model files are large, you may not want to pull the complete repository in one go<br>
+GitHub limits file sizes to 100MB, files larger than this have been broken up using <b>split</b>, instructions to reconstitute files are contained inline<br>
 <br>
 William Johnson @johnsonwr<br>
 
@@ -42,8 +44,7 @@ CNN models</h3>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 </table>
 R model format reference https://cran.r-project.org/web/packages/spls/index.html<br>
-GitHub file size limits require the R model to be <b>split</b>, to reintegate use <b>cat</b><br>
 
 ```
-cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda
+cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda # reconstitute R model
 ```

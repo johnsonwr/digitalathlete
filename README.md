@@ -35,6 +35,7 @@ May 2018<br>
 <h3>Study 2: Predicting athlete ground reaction forces and moments from spatio-temporal driven
 CNN models</h3>
 <table>
+<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation</td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">Data visualization</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>

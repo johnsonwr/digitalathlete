@@ -61,5 +61,6 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
   
 </td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
+<tr><th align="left">R SPLS reference</th><td align="left">https://cran.r-project.org/web/packages/spls/index.html</td></tr>
 </table>
-R SPLS reference https://cran.r-project.org/web/packages/spls/index.html<br>
+<br>

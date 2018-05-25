@@ -53,7 +53,6 @@ cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_
 </table>
 <br>
 --->
-
 <br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>

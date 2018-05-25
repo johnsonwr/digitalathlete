@@ -32,6 +32,7 @@ bill@johnsonwr.com<br>
 May 2018<br>
 <br>
 
+<!---
 <h3>Study 2: Predicting athlete ground reaction forces and moments from spatio-temporal driven
 CNN models</h3>
 <table>
@@ -51,6 +52,7 @@ cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_
 <tr><th align="left">CaffeNet reference</th><td align="left">https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
 </table>
 <br>
+--->
 
 <br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>

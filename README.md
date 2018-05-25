@@ -30,8 +30,8 @@ William Johnson @johnsonwr<br>
 
 bill@johnsonwr.com<br>
 May 2018<br>
-<br>
 <!---
+<br>
 <h3>Study 2: Predicting athlete ground reaction forces and moments from spatio-temporal driven
 CNN models</h3>
 <table>

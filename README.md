@@ -20,25 +20,16 @@
   --->
 
 <h2>http://digitalathlete.org</h2>
+<br>
+Supplementary material from publications associated with the research project<br>
+<br>
+Caution, the model files are large, you may not want to pull the complete repository<br>
+GitHub limits file sizes to 100MB, files larger than this have been broken up using <a  href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html" target="_blank"><b>split</b></a>, instructions to reconstitute files are given inline<br>
+<br>
+William Johnson @johnsonwr<br>
 
-
-Supplementary material from publications associated with the research project
-
-
-
-Caution, the model files are large, you may not want to pull the complete repository
-
-GitHub limits file sizes to 100MB, files larger than this have been broken up using <a  href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html" target="_blank"><b>split</b></a>, instructions to reconstitute files are given inline
-
-
-
-William Johnson @johnsonwr
-
-bill@johnsonwr.com
-June 2018
-
-
-
+bill@johnsonwr.com<br>
+June 2018<br>
 
 <h3>Study 2: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
 <table>
@@ -46,9 +37,7 @@ June 2018
 <tr><th align="left">Paper</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">Data visualization</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left"><i>In review</i></td></tr>
-<tr><th align="left">Models</th><td align="left"><i>In review</i></td></tr>
-
-
+<tr><th align="left">Models</th><td align="left"><i>In review</i>
 
 ```
 In review
@@ -57,12 +46,9 @@ In review
 </td></tr>
 <tr><th align="left">Prototxt</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">CaffeNet reference</th><td align="left">https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
-</table>
+</table><br>
 
-
-
-
-
+<br>
 <h3>Study 1: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Action recognition &#183; Wearable sensors &#183; Computer simulation</td></tr>
@@ -70,9 +56,6 @@ In review
 <tr><th align="left">Video presentation</th><td align="left">http://bit.ly/2kcgXrw</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 <tr><th align="left">Models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (1.9GB)
-
-
-
   
 ```
 cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_predict_model.Rda # reconstitute R model
@@ -80,4 +63,4 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
   
 </td></tr>
 <tr><th align="left">R SPLS reference</th><td align="left">https://cran.r-project.org/web/packages/spls/index.html</td></tr>
-</table>
+</table><br>

@@ -16,7 +16,7 @@
   ---
   --- 5. Modification-History
   ---      Build Author Date      Change
-  ---      n/a   wrj    22may2018 alpha release 
+  ---      a35   wrj    26may2018 alpha release
   --->
 
 <h2>http://digitalathlete.org</h2>
@@ -31,6 +31,7 @@ William Johnson @johnsonwr<br>
 bill@johnsonwr.com<br>
 June 2018<br>
 
+<br>
 <h3>Study 2: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation</td></tr>

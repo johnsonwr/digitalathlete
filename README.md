@@ -34,9 +34,7 @@ GitHub limits file sizes to 100MB, files larger than this have been broken up us
 
 William Johnson @johnsonwr
 
-
 bill@johnsonwr.com
-
 June 2018
 
 
@@ -53,7 +51,7 @@ June 2018
 
 
 ```
-<i>In review</i>
+In review
 ```
 
 </td></tr>

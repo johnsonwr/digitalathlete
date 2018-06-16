@@ -64,7 +64,7 @@ In review
 </td></tr>
 <tr><th align="left">Prototxt</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">CaffeNet reference</th><td align="left">https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
-<tr><th align="left">Conference abstract</th><td align="left">Prediction of ground reaction forces and moments GRF/Ms via supervised learning is independent of participant sex, height and mass<br>https://commons.nmu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1034&context=isbs</td></tr>
+<tr><th align="left">Conference abstract</th><td align="left">Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass<br>https://commons.nmu.edu/cgi/viewcontent.cgi&article=1034&context=isbs</td></tr>
 </table><br>
 
 <br>

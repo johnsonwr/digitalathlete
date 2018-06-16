@@ -26,7 +26,7 @@
 <br>
 Supplementary material from publications associated with the research project<br>
 <br>
-Caution, the model files are large, you may not want to pull the complete repository<br>
+Caution, model files are large, you may not want to pull the complete repository<br>
 <br>
 GitHub limits file sizes to 100MB, files larger than this have been broken up using <a  href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html" target="_blank"><b>split</b></a>, instructions to reconstitute files are given inline<br>
 <br>
@@ -34,6 +34,19 @@ William Johnson @johnsonwr<br>
 
 bill@johnsonwr.com<br>
 June 2018<br>
+
+<br>
+<h3>Study 4: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
+<table>
+<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic data &#183; Motion capture &#183; Sports analytics</td></tr>
+<tr><th align="left">Conference abstract</th><td align="left">http://bit.ly/2GzYnHD</td></tr>
+</table><br>
+
+<br>
+<h3>Study 3: On-field player work exposure and knee injury risk monitoring via deep learning</h3>
+<table>
+<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
+</table><br>
 
 <br>
 <h3>Study 2: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>

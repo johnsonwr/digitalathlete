@@ -38,7 +38,7 @@ June 2018<br>
 <br>
 <h3>Study 4: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
-<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic data &#183; Motion capture &#183; Sports analytics</td></tr>
+<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic accelerations &#183; Motion capture &#183; Sports analytics</td></tr>
 <tr><th align="left">Conference abstract</th><td align="left">http://bit.ly/2GzYnHD</td></tr>
 </table><br>
 

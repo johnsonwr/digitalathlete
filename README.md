@@ -46,6 +46,7 @@ June 2018<br>
 <h3>Study 3: On-field player work exposure and knee injury risk monitoring via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
+<tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
 </table><br>
 
 <br>

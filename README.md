@@ -36,7 +36,7 @@ William Johnson @johnsonwr<br>
 
 bill@johnsonwr.com<br>
 June 2018<br>
-<a href="https://signal.org" target="_TOP" title="Signal"><img src="http://bit.ly/2yn2Idh" width="32" height="32" style="border: 0px;" /></a>
+<a href="https://signal.org" target="_TOP" title="Signal"><img src="https://drive.google.com/file/d/1QW3GS8v5GzWbMXjt2BwEySWyzXo3Jebz/view?usp=sharing" width="32" height="32" style="border: 0px;" /></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" target="_TOP" title="ResearchGate"><img src="http://bit.ly/2ti6grG" width="32" height="32" style="border: 0px;" /></a>
 
 

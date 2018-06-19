@@ -37,6 +37,9 @@ William Johnson @johnsonwr<br>
 bill@johnsonwr.com<br>
 June 2018<br>
 <a href="https://signal.org" target="_TOP" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32" style="border: 0px;"></a>
+<a href="https://www.researchgate.net/profile/William_Johnson54" target="_TOP" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32" style="border: 0px;"></a>
+<a href="http://au.linkedin.com/in/johnsonwr" target="_TOP" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32" style="border: 0px;"></a>
+<a href="twitter.com/billjohnsonuwa" target="_TOP" title="Twitter"><img src="_readme/twitter.png" width="32" height="32" style="border: 0px;"></a>
 
 <br>
 <h3>Study 4: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>

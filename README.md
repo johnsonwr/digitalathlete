@@ -36,8 +36,6 @@ Supplementary material from publications associated with the research project.<b
 <br>
 By taking a new approach and training convolutional neural networks (CNNs) with archived biomechanics data, we are creating models to facilitate accurate multidimensional on-field predictive analytics. Using test sets from multi data-captures which include ground truth force plate and/or source modelling, we see strong correspondence between markers and ground reaction forces and moments and knee joint moments (GRF/M r>0.97, KJM r>0.88, both 8 markers, 33% stance, sidestepping). Currently, we are investigating novel methods to build models for predicting GRF/M from wearable sensors (r>0.88, 4 accelerometers, 100% stance, sidestepping).<br>
 <br>
-Caution, model files are large, you may not want to pull the complete repository. GitHub limits file sizes to 100MB, files larger than this have been broken up using <a  href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html" target="_blank"><b>split</b></a>, instructions to reconstitute files are given inline.<br>
-<br>
 William Johnson @johnsonwr<br>
 
 bill@johnsonwr.com<br>

@@ -36,6 +36,8 @@ William Johnson @johnsonwr<br>
 
 bill@johnsonwr.com<br>
 June 2018<br>
+![Signal](http://bit.ly/2yn2Idh)
+
 
 <br>
 <h3>Study 4: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>

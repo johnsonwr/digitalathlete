@@ -17,6 +17,8 @@
   ---      https://guides.github.com/features/mastering-markdown/
   ---      https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   ---
+  ---      &#183; middle dot (LaTeX \cdot)
+  ---
   --- 5. Modification-History
   ---      Build Author Date      Change
   ---      a35   wrj    26may2018 alpha release
@@ -34,6 +36,9 @@ William Johnson @johnsonwr<br>
 
 bill@johnsonwr.com<br>
 June 2018<br>
+<a href="https://signal.org" target="_TOP" title="Signal">
+<img src="http://bit.ly/2yn2Idh" width="32" height="32" style="border: 0px;" />
+</a>
 
 <br>
 <h3>Study 4: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>

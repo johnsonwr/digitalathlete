@@ -36,7 +36,7 @@ William Johnson @johnsonwr<br>
 
 bill@johnsonwr.com<br>
 June 2018<br>
-![Signal](http://bit.ly/2yn2Idh)
+<a href="https://signal.org" target="_TOP" title="Signal"><img src="http://bit.ly/2yn2Idh" width="32" height="32" style="border: 0px;"></a>
 
 
 <br>

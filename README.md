@@ -52,8 +52,8 @@ text
 <td>
 <img src="_readme/grftrain_180613080625121c25.png" width="400" height="434" style="border: 0px;">
 </td>
-
 </tr>
+</table>
 
 
 <br>

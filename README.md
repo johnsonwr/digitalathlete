@@ -50,7 +50,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 <h3>Study 4: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic accelerations &#183; Motion capture &#183; Sports analytics</td></tr>
-<tr><th align="left">Conference abstract</th><td align="left">http://bit.ly/2GzYnHD</td></tr>
+<tr><th align="left">WCB 2018 conference abstract</th><td align="left">http://bit.ly/2GzYnHD</td></tr>
 </table><br>
 
 <br>

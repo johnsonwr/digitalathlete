@@ -37,8 +37,12 @@ bill@johnsonwr.com<br>
 June 2018<br>
 <a href="https://signal.org" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
-<a href="http://au.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
-<a href="twitter.com/billjohnsonuwa" title="Twitter"><img src="_readme/twitter.png" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/johnsonwr/" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
+<a href="https://twitter.com/billjohnsonuwa" title="Twitter"><img src="_readme/twitter.png" width="32" height="32"></a>
+
+<a href="https://developer.nvidia.com/academic_gpu_seeding" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" height="32"></a>
+
+
 </td><td><img src="_readme/grftrain_180613080625121c25.png"></td></tr>
 <tr><td colspan=2>
 Caution, model files are large, you may not want to pull the complete repository. GitHub limits file sizes to 100MB, files larger than this have been broken up using <a  href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html" target="_blank"><b>split</b></a>, instructions to reconstitute files are given inline.<br>

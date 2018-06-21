@@ -42,7 +42,7 @@ June 2018<br>
 <a href="https://developer.nvidia.com/academic_gpu_seeding" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" height="32" align="right"></a>
 </td><td><img src="_readme/grftrain_180613080625121c25.png"></td></tr>
 <tr><td colspan=2>
-Caution, model files are large, you may not want to pull the complete repository. GitHub limits file sizes to 100MB, files larger than this have been broken up using <a  href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html" target="_blank"><b>split</b></a>, instructions to reconstitute files are given inline.<br>
+Caution, model files are large, you may not wish to pull the complete repository. GitHub limits file sizes to 100MB, files larger than this have been broken up using <a  href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html" target="_blank"><b>split</b></a>. Instructions to reconstitute files are given inline.<br>
 </td></tr>
 </table>
 

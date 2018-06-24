@@ -37,8 +37,9 @@ bill@johnsonwr.com<br>
 June 2018<br>
 <a href="https://signal.org" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
-<a href="https://www.linkedin.com/in/johnsonwr/" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
 <a href="https://twitter.com/billjohnsonuwa" title="Twitter"><img src="_readme/twitter.png" width="32" height="32"></a>
+<a href="https://github.com/johnsonwr/digitalathlete" title="GitHub"><img src="_readme/github.png" width="32" height="32"></a>
 <a href="https://developer.nvidia.com/academic_gpu_seeding" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" height="32" align="right"></a>
 </td><td><img src="_readme/grftrain_180613080625121c25.png"></td></tr>
 <tr><td colspan=2>

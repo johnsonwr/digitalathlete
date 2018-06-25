@@ -51,8 +51,11 @@ Caution, model files are large, you may not wish to pull the complete repository
 <h3>Study 4: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic accelerations &#183; Motion capture &#183; Sports analytics</td></tr>
-<tr><th align="left">WCB 2018 conference</th><td align="left">Abstract http://bit.ly/2GzYnHD</td></tr>
-<tr><th align="left">Paper</th><td align="left"><i>In preparation</i></td></tr>
+<tr><th align="left">WCB 2018 conference</th><td align="left">
+Abstract http://bit.ly/2GzYnHD<br>
+Presentation (with commentary) <i>In preparation</i>
+</td></tr>
+<tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
 </table><br>
 
 <br>
@@ -81,7 +84,8 @@ In review
 <tr><th align="left">CaffeNet reference</th><td align="left">https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
 <tr><th align="left">ISBS 2017<br>conference</th><td align="left"><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
 Abstract https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs<br>
-Presentation http://bit.ly/2MvqW8c<br></td></tr>
+Presentation http://bit.ly/2MvqW8c
+</td></tr>
 </table><br>
 
 <br>

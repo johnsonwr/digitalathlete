@@ -21,7 +21,7 @@
   ---
   --- 5. Modification-History
   ---      Build Author Date      Change
-  ---      a35   wrj    26may2018 alpha release
+  ---      a36   wrj    27jun2018 alpha release
   --->
 
 <h2>http://digitalathlete.org</h2>
@@ -56,6 +56,7 @@ Abstract http://bit.ly/2GzYnHD<br>
 Presentation (with commentary) <i>In preparation</i>
 </td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
+<tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization (supplementary figure), <i>in preparation</i></td></tr>
 </table><br>
 
 <br>
@@ -71,7 +72,7 @@ Presentation (with commentary) <i>In preparation</i>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation</td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In review</i></td></tr>
-<tr><th align="left">Data visualization</th><td align="left"><i>In review</i></td></tr>
+<tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization (supplementary figure), <i>in review</i></td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left"><i>In review</i></td></tr>
 <tr><th align="left">Models</th><td align="left"><i>In review</i><br><br>
 

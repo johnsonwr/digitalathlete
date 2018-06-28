@@ -24,15 +24,15 @@
   ---      a36   wrj    27jun2018 alpha release
   --->
 
-<h2>Deep learning workbench for biomechanics
+<h2>Deep learning workbench for biomechanics</h2>
 <p align="left">test<p align="right">http://digitalathlete.org</p>
 </h2>
 <br>
 
 <table cellpadding=0 cellspacing=0>
   <tr>
-    <td width=50% align="left">col1</td>
-    <td align="right">col2</td>
+    <td width=50% align="left"><h2>Deep learning workbench for biomechanics</h2></td>
+    <td align="right">http://digitalathlete.org</td>
   </tr>
 <tr><td width=50%>
 By taking a new approach and training convolutional neural networks (CNNs) with archived biomechanics data, we are creating deep learning models to facilitate accurate multidimensional on-field predictive analytics. Using test sets from multi data-captures which include ground truth force plate and/or source modelling, we see strong correspondence between measured versus predicted ground reaction forces and moments, and knee joint moments, from markers (GRF/M r>0.97, KJM r>0.88, both 8 markers, 33% stance, sidestepping). Currently, we are investigating novel methods to build models for predicting GRF/M from wearable sensors (r>0.88, 4 accelerometers, 100% stance, sidestepping).<br>

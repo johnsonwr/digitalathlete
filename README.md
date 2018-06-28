@@ -31,7 +31,7 @@
 
 <table cellpadding=0 cellspacing=0>
   <tr>
-    <td width=50% align="left"><h2>Deep learning workbench for biomechanics</h2></td>
+    <td width=75% align="left"><h2>Deep learning workbench for biomechanics</h2></td>
     <td align="right">http://digitalathlete.org</td>
   </tr>
 <tr><td width=50%>

@@ -25,7 +25,7 @@
   --->
 
 <h2>Deep learning workbench for biomechanics
-<p align="right">http://digitalathlete.org</p>
+<p align="left">test<p align="right">http://digitalathlete.org</p>
 </h2>
 <br>
 

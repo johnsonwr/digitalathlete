@@ -24,7 +24,7 @@
   ---      a36   wrj    27jun2018 alpha release
   --->
 
-<h2>Deep learning workbench for biomechanics<br>
+<h2>Deep learning workbench for biomechanics
 <p align="right">http://digitalathlete.org</p>
 </h2>
 <br>

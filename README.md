@@ -11,7 +11,7 @@
   ---      William JOHNSON, bill@johnsonwr.com
   ---
   --- 4. Notes
-  ---      GitHub index to supplementary material from publications associated with the research project
+  ---      GitHub index to supplementary publication material
   ---
   ---      https://github.com/johnsonwr/digitalathlete
   ---      https://guides.github.com/features/mastering-markdown/
@@ -24,6 +24,7 @@
   ---      a36   wrj    27jun2018 alpha release
   --->
 
+<h2>Deep learning workbench for biomechanics</h2>
 <h2>http://digitalathlete.org</h2>
 <br>
 
@@ -39,7 +40,7 @@ June 2018<br>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
 <a href="https://twitter.com/billjohnsonuwa" title="Twitter"><img src="_readme/twitter.png" width="32" height="32"></a>
-<a href="https://github.com/johnsonwr/digitalathlete" title="GitHub"><img src="_readme/github.png" width="32" height="32"></a>
+<a href="https://github.com/johnsonwr" title="GitHub"><img src="_readme/github.png" width="32" height="32"></a>
 <a href="https://developer.nvidia.com/academic_gpu_seeding" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" height="32" align="right"></a>
 </td><td><img src="_readme/grftrain_180613080625121c25.png"></td></tr>
 <tr><td colspan=2>

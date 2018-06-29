@@ -52,7 +52,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic accelerations &#183; Motion capture &#183; Sports analytics</td></tr>
 <tr><th align="left"><a href="http://wcb2018.com">WCB 2018<br>conference</a></th><td align="left">
 Abstract http://bit.ly/2GzYnHD<br>
-Presentation (with commentary) <i>In preparation</i>
+Presentation (with commentary)<i>, in preparation</i>
 </td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
 </table><br>

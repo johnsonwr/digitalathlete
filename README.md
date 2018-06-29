@@ -55,7 +55,6 @@ Abstract http://bit.ly/2GzYnHD<br>
 Presentation (with commentary) <i>In preparation</i>
 </td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
-<tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization (supplementary figure), <i>in preparation</i></td></tr>
 </table><br>
 
 <br>
@@ -64,6 +63,7 @@ Presentation (with commentary) <i>In preparation</i>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
 <tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In review (internal)</i></td></tr>
+<tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization (supplementary figure), <i>in preparation</i></td></tr>
 </table><br>
 
 <br>

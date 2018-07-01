@@ -71,7 +71,7 @@ Presentation with commentary<i>, in preparation</i>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation</td></tr>
 <tr><th align="left"><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10">IEEE TBME<br>paper</a></th><td align="left"><i>Accepted July 1, 2018</i></td></tr>
-<tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization (supplementary figure) http://bit.ly/2Is3PJx</td></tr>
+<tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
 <tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br><br>
 

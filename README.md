@@ -11,10 +11,12 @@
   ---      William JOHNSON, bill@johnsonwr.com
   ---
   --- 4. Notes
-  ---      GitHub index to supplementary publication material
+  ---      GitHub index to supplementary publication material (models, animations, figures, presentations)
   ---      URL target="_blank" doesn't seem to be supported
   ---
+  ---      http://digitalathlete.org
   ---      https://github.com/johnsonwr/digitalathlete
+  ---
   ---      https://guides.github.com/features/mastering-markdown/
   ---      https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   ---
@@ -52,7 +54,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic accelerations &#183; Motion capture &#183; Sports analytics</td></tr>
 <tr><th align="left"><a href="http://wcb2018.com">WCB 2018<br>conference</a></th><td align="left">
 Abstract http://bit.ly/2GzYnHD<br>
-Presentation with commentary<i>, in preparation</i>
+Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
 </table><br>
@@ -70,7 +72,7 @@ Presentation with commentary<i>, in preparation</i>
 <h3>Study two: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation</td></tr>
-<tr><th align="left"><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10">IEEE TBME<br>paper</a></th><td align="left"><i>Accepted July 1, 2018</i></td></tr>
+<tr><th align="left"><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10">IEEE TBME<br>paper</a></th><td align="left">https://ieeexplore.ieee.org/document/8408711</td></tr>
 <tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
 <tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br><br>
@@ -92,8 +94,7 @@ Presentation http://bit.ly/2MvqW8c
 <h3>Study one: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Action recognition &#183; Wearable sensors &#183; Computer simulation</td></tr>
-<tr><th align="left"><a href="http://link.springer.com/journal/11517">MBEC<br>paper</a>
-</th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
+<tr><th align="left"><a href="http://link.springer.com/journal/11517">MBEC<br>paper</a></th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
 <tr><th align="left">Presentation with commentary</th><td align="left">http://bit.ly/2kcgXrw</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 <tr><th align="left">R models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (1.9GB)<br><br>

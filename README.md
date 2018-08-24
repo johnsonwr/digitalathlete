@@ -39,7 +39,7 @@ William Johnson
 <a href="https://www.nsca.com/certification/cscs">CSCS</a><br>
 
 bill@johnsonwr.com<br>
-July 2018<br>
+August 2018<br>
 <a href="https://signal.org" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
@@ -110,3 +110,5 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 </td></tr>
 <tr><th align="left">R SPLS reference</th><td align="left">https://cran.r-project.org/web/packages/spls/index.html</td></tr>
 </table><br>
+
+<!--- end>

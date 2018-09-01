@@ -56,12 +56,12 @@ Caution, model files are large, you may not wish to pull the complete repository
 <h3>Study four: Multidimensional knee joint moments from wearable sensor accelerations via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic accelerations &#183; Motion capture &#183; Sports analytics</td></tr>
+<tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
 <tr><th align="left"><a href="http://wcb2018.com">WCB 2018<br>conference</a></th><td align="left">
 <b>Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</b><br>
 Abstract http://bit.ly/2GzYnHD<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
-<tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
 </table><br>
 
 <br>

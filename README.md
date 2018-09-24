@@ -68,9 +68,18 @@ Presentation with commentary http://bit.ly/2tCKHTo<br>
 <h3>Study three: On-field player workload exposure and knee injury risk monitoring via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
-<tr><th align="left">Paper</th><td align="left"><i>In review (internal)</i></td></tr>
+<tr><th align="left"><a href="https://arxiv.org/abs/1809.08016">arXiv<br>paper</a></th><td align="left">https://arxiv.org/abs/1809.08016</td></tr>
 <tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
 <tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization (supplementary figure) http://bit.ly/2yTaX1f</td></tr>
+<tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/figures</td></tr>
+<tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/models (1.3GB)<br><br>
+
+```
+cat grftrain_180613080625130_mcrnet.caffemodel_j01_* > grftrain_180613080625130_mcrnet.caffemodel_j01 # reconstitute Caffe model 1
+```
+
+</td></tr>
+<tr><th align="left">Prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/prototxt</td></tr>
 </table><br>
 
 <br>

@@ -42,7 +42,7 @@ William Johnson
 <a href="https://www.nsca.com/certification/cscs">CSCS</a><br>
 
 bill@johnsonwr.com<br>
-September 2018<br>
+October 2018<br>
 <a href="https://signal.org" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
@@ -63,6 +63,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 <tr><th align="left"><a href="http://wcb2018.com">WCB 2018</a><br>conference</th><td align="left">
 <b>Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</b><br>
 Abstract http://bit.ly/2GzYnHD<br>
+Poster http://bit.ly/2yXgdgO<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
 </table><br>

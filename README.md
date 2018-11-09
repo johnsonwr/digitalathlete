@@ -42,7 +42,7 @@ William Johnson
 <a href="https://www.nsca.com/certification/cscs">CSCS</a><br>
 
 bill@johnsonwr.com<br>
-October 2018<br>
+November 2018<br>
 <a href="https://signal.org" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
@@ -62,11 +62,11 @@ Caution, model files are large, you may not wish to pull the complete repository
 <tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
 <b>Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</b><br>
-Poster http://bit.ly/2yXgdgO<br>
+Poster (Conference Award) http://bit.ly/2yXgdgO<br>
 </td></tr>
 <tr><th align="left"><a href="http://wcb2018.com">WCB 2018</a><br>conference</th><td align="left">
 <b>Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</b><br>
-Abstract http://bit.ly/2GzYnHD<br>
+Abstract (Student Bursary Award) http://bit.ly/2GzYnHD<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
 </table><br>
@@ -106,7 +106,7 @@ cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_
 <tr><th align="left">Prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
 <tr><th align="left">CaffeNet reference</th><td align="left">https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
 <tr><th align="left"><a href="http://www.isbs2017.com">ISBS 2017</a><br>conference</th><td align="left"><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
-Abstract https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs<br>
+Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs<br>
 Presentation http://bit.ly/2MvqW8c
 </td></tr>
 </table><br>

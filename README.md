@@ -56,16 +56,14 @@ Caution, model files are large, you may not wish to pull the complete repository
 </table>
 
 <br>
-<h3>Study four: Multidimensional knee joint moments from wearable sensor accelerations via deep learning</h3>
+<h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
-<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic accelerations &#183; Motion capture &#183; Sports analytics</td></tr>
+<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic accelerations &#183; Workload exposure &#183; Sports analytics</td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
-<b>Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</b><br>
 Poster (Conference Award) http://bit.ly/2yXgdgO<br>
 </td></tr>
 <tr><th align="left"><a href="http://wcb2018.com">WCB 2018</a><br>conference</th><td align="left">
-<b>Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</b><br>
 Abstract (Student Bursary Award) http://bit.ly/2GzYnHD<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>

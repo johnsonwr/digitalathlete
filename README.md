@@ -115,7 +115,7 @@ Presentation http://bit.ly/2MvqW8c
 <table>
 <tr><th align="left">Keywords</th><td align="left">Action recognition &#183; Wearable sensors &#183; Computer simulation</td></tr>
 <tr><th align="left"><a href="http://link.springer.com/journal/11517">MBEC</a><br>paper</th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
-<tr><th align="left">Presentation with commentary</th><td align="left">http://bit.ly/2kcgXrw</td></tr>
+<tr><th align="left">CSSE Conference 2016</th><td align="left">Presentation with commentary http://bit.ly/2kcgXrw</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 <tr><th align="left">R models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (1.9GB)<br><br>
   

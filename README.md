@@ -27,7 +27,7 @@
   ---
   --- 5. Modification-History
   ---      Build Author Date      Change
-  ---      a36   wrj    27jun2018 alpha release
+  ---      a37   wrj    26nov2018 alpha release
   --->
 
 <h2>Deep learning workbench for biomechanics<br>http://digitalathlete.org</h2>
@@ -42,7 +42,7 @@ William Johnson
 <a href="https://www.nsca.com/certification/cscs">CSCS</a><br>
 
 bill@johnsonwr.com<br>
-November 2018<br>
+January 2019<br>
 <a href="https://signal.org" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
@@ -60,6 +60,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic accelerations &#183; Workload exposure &#183; Sports analytics</td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
+<tr><th align="left">Upcoming Conference</th><td align="left"><b>Multidimensional ground reaction forces from a single trunk-mounted accelerometer via deep learning</b><br>In preparation</td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
 Poster (Conference Award) http://bit.ly/2yXgdgO<br>
 </td></tr>

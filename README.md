@@ -127,4 +127,19 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <tr><th align="left">R SPLS reference</th><td align="left">https://cran.r-project.org/web/packages/spls/index.html</td></tr>
 </table><br>
 
+
+<br>
+<h3>Recommended courses, groups, and books</h3>
+<table>
+
+<tr><th align="left">Andrew Ng</th><td align="left">
+<b>Machine Learning course</b><br>
+https://www.coursera.org/learn/machine-learning<br>
+http://cs229.stanford.edu<br>
+http://www.mlyearning.org<br>
+</td></tr>
+
+</table><br>
+
+
 <!--- end>

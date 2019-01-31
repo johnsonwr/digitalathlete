@@ -32,7 +32,10 @@
 
 <h2>Deep learning workbench for biomechanics<br>http://digitalathlete.org</h2>
 <table cellpadding=0 cellspacing=0>
-<tr><td width=50%>
+<tr>
+
+
+<td width=50%>
 <i>Machine learning driven by wearable sensors can replace laboratory instrumentation and bring biomechanical accuracy and validity to the sports field.</i><br><br>
 By taking a new approach and training convolutional neural networks (CNNs) with archived biomechanics data, we are creating deep learning models to facilitate accurate multidimensional on-field predictive analytics. Using test sets from multi data-captures which include ground truth force plate and/or source modelling, we see strong correspondence between measured versus predicted ground reaction forces and moments, and knee joint moments, from markers (GRF/M r>0.97, KJM r>0.88, both 8 markers, 33% stance, sidestepping). Currently, we are investigating novel methods to build models for predicting GRF/M from wearable sensors (r>0.88, 4 accelerometers, 100% stance, sidestepping).<br><br>
 William Johnson 
@@ -43,12 +46,16 @@ William Johnson
 
 bill@johnsonwr.com<br>
 January 2019<br>
+<a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://signal.org" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
 <a href="https://github.com/johnsonwr" title="GitHub"><img src="_readme/github.png" width="32" height="32"></a>
-<a href="https://developer.nvidia.com/academic_gpu_seeding" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" height="32" align="right"></a>
-</td><td><img src="_readme/grftrain_180613080625121c25.png"></td></tr>
+<a href="http://www2.c-motion.com/products/visual3d" title="C-Motion"><img src="_readme/c-motion_background_white.png" width="120"></a>
+<a href="https://developer.nvidia.com/academic_gpu_seeding" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" width="140"></a>
+</td>
+
+<td><img src="_readme/grftrain_180613080625121c25.png"></td></tr>
 <tr><td colspan=2>
 Caution, model files are large, you may not wish to pull the complete repository. GitHub limits file sizes to 100MB, files larger than this have been broken up using <a href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html"><b>split</b></a>. Instructions to reconstitute files are given inline.<br>
 </td></tr>
@@ -163,5 +170,13 @@ https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B
 </td></tr>
 </table><br>
 
+
+<br>
+<h3>Acknowledgements</h3>
+<table>
+<tr><td align="left">
+This project was partially supported by the ARC Discovery Grant DP160101458 and an Australian Government Research Training Program Scholarship. NVIDIA Corporation is gratefully acknowledged for the GPU provision through its Hardware Grant Program, and C-Motion Inc. for the Visual3D licence. Portions of data included in this study were funded by NHMRC grant 400937.
+</td></tr>
+</table><br>
 
 <!--- end>

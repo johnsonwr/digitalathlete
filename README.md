@@ -44,8 +44,7 @@ William Johnson
 <a href="https://www.engineersaustralia.org.au/Membership/Chartered">CPEng</a>, 
 <a href="https://www.nsca.com/certification/cscs">CSCS</a><br>
 
-bill@johnsonwr.com<br>
-January 2019<br>
+bill@johnsonwr.com | February 2019<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://signal.org" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
@@ -138,36 +137,33 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <br>
 <h3>Recommended courses, groups, and books</h3>
 <table>
-<tr><th align="left">Andrew Ng</th><td align="left">
-<b>Machine Learning course</b><br>
+<tr><th align="left">Andrew Ng</th>
+<td align="left"><b>Machine Learning course</b><br>
 https://www.coursera.org/learn/machine-learning<br>
 http://cs229.stanford.edu<br>
-http://www.mlyearning.org<br>
-</td></tr>
-<tr><th align="left">Fei-Fei Li</th><td align="left">
-<b>Stanford Convolutional Neural Networks for Visual Recognition</b><br>
+http://www.mlyearning.org</td></tr>
+<tr><th align="left">Fei-Fei Li</th>
+<td align="left"><b>Stanford Convolutional Neural Networks for Visual Recognition</b><br>
 http://cs231n.stanford.edu<br>
-http://cs231n.github.io<br>
-</td></tr>
-<tr><th align="left">Sean Driver</th><td align="left">
-<b>Perth Machine Learning Group</b><br>
+http://cs231n.github.io</td></tr>
+<tr><th align="left">Ajmal Mian</th>
+<td align="left"><b>Machine Intelligence Group</b><br>
+https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
+<tr><th align="left">Sean Driver</th>
+<td align="left"><b>Perth Machine Learning Group</b><br>
 https://www.meetup.com/en-AU/Perth-Machine-Learning-Group<br>
 https://github.com/pmlg/pmlg.github.io<br>
-https://www.fast.ai<br>
-</td></tr>
-<tr><th align="left">Ian Goodfellow</th><td align="left">
-<b>Deep Learning</b><br>
+https://www.fast.ai</td></tr>
+<tr><th align="left">Ian Goodfellow</th>
+<td align="left"><b>Deep Learning</b><br>
 http://www.deeplearningbook.org<br>
-https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618<br>
-</td></tr>
-<tr><th align="left">Sebastian Raschka</th><td align="left">
-<b>Python Machine Learning</b><br>
-https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF<br>
-</td></tr>
-<tr><th align="left">Aurélien Géron</th><td align="left">
-<b>Hands-On Machine Learning with Scikit-Learn & TensorFlow</b><br>
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS<br>
-</td></tr>
+https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618</td></tr>
+<tr><th align="left">Sebastian Raschka</th>
+<td align="left"><b>Python Machine Learning</b><br>
+https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF</td></tr>
+<tr><th align="left">Aurélien Géron</th>
+<td align="left"><b>Hands-On Machine Learning with Scikit-Learn & TensorFlow</b><br>
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS</td></tr>
 </table><br>
 
 

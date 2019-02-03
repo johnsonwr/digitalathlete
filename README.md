@@ -137,6 +137,10 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <br>
 <h3>Recommended courses, groups, and books</h3>
 <table>
+<tr><th align="left">Ajmal Mian</th>
+<td align="left"><b>Machine Intelligence Group</b><br>
+http://staffhome.ecm.uwa.edu.au/~00053650<br>
+https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
 <tr><th align="left">Andrew Ng</th>
 <td align="left"><b>Machine Learning course</b><br>
 https://www.coursera.org/learn/machine-learning<br>
@@ -146,10 +150,6 @@ http://www.mlyearning.org</td></tr>
 <td align="left"><b>Stanford Convolutional Neural Networks for Visual Recognition</b><br>
 http://cs231n.stanford.edu<br>
 http://cs231n.github.io</td></tr>
-<tr><th align="left">Ajmal Mian</th>
-<td align="left"><b>Machine Intelligence Group</b><br>
-http://staffhome.ecm.uwa.edu.au/~00053650<br>
-https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
 <tr><th align="left">Sean Driver</th>
 <td align="left"><b>Perth Machine Learning Group</b><br>
 https://www.meetup.com/en-AU/Perth-Machine-Learning-Group<br>

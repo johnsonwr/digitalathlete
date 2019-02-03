@@ -148,6 +148,7 @@ http://cs231n.stanford.edu<br>
 http://cs231n.github.io</td></tr>
 <tr><th align="left">Ajmal Mian</th>
 <td align="left"><b>Machine Intelligence Group</b><br>
+http://staffhome.ecm.uwa.edu.au/~00053650<br>
 https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
 <tr><th align="left">Sean Driver</th>
 <td align="left"><b>Perth Machine Learning Group</b><br>
@@ -171,7 +172,7 @@ https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B
 <h3>Acknowledgements</h3>
 <table>
 <tr><td align="left">
-This project was partially supported by the ARC Discovery Grant DP160101458 and an Australian Government Research Training Program Scholarship. NVIDIA Corporation is gratefully acknowledged for the GPU provision through its Hardware Grant Program, and C-Motion Inc. for the Visual3D licence. Portions of data included in this study were funded by NHMRC grant 400937.
+This project was partially supported by the ARC Discovery Grant DP160101458 and an Australian Government Research Training Program Scholarship. NVIDIA Corporation is gratefully acknowledged for the GPU provision through its Hardware Grant Program, Eigenvector Research for the PLS_Toolbox licence, and C-Motion Inc. for the Visual3D licence. Portions of data included in this study were funded by NHMRC grant 400937.
 </td></tr>
 </table><br>
 

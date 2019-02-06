@@ -137,10 +137,6 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <br>
 <h3>Recommended courses, groups, and books</h3>
 <table>
-<tr><th align="left">Ajmal Mian</th>
-<td align="left"><b>Machine Intelligence Group</b><br>
-http://staffhome.ecm.uwa.edu.au/~00053650<br>
-https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
 <tr><th align="left">Andrew Ng</th>
 <td align="left"><b>Machine Learning course</b><br>
 https://www.coursera.org/learn/machine-learning<br>
@@ -165,6 +161,29 @@ https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/
 <tr><th align="left">Aurélien Géron</th>
 <td align="left"><b>Hands-On Machine Learning with Scikit-Learn & TensorFlow</b><br>
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS</td></tr>
+</table><br>
+
+
+<br>
+<h3>PhD supervisors</h3>
+<table>
+<tr><th align="left">Jacqueline Alderson</th>
+<td align="left">
+<b>School of Human Sciences (Exercise and Sport Science), The University of Western Australia, Perth Australia</b><br>
+<b>Sports Performance Research Institute New Zealand (SPRINZ), Auckland University of Technology, Auckland, New Zealand</b><br>
+https://research-repository.uwa.edu.au/en/persons/jacqueline-alderson
+</td></tr>
+<tr><th align="left">Ajmal Mian</th>
+<td align="left">
+<b>Department of Computer Science and Software Engineering, The University of Western Australia, Perth, Australia</b><br>
+http://staffhome.ecm.uwa.edu.au/~00053650<br>
+<b>Machine Intelligence Group</b><br>
+https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
+<tr><th align="left">David Lloyd</th>
+<td align="left">
+<b>Menzies Health Institute Queensland, and the School of Allied Health Sciences, Griffith University, Gold Coast, Australia</b><br>
+https://experts.griffith.edu.au/academic/david.lloyd
+</td></tr>
 </table><br>
 
 

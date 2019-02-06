@@ -38,7 +38,7 @@
 <td width=50%>
 <i>Machine learning driven by wearable sensors can replace laboratory instrumentation and bring biomechanical accuracy and validity to the sports field.</i><br><br>
 By taking a new approach and training convolutional neural networks (CNNs) with archived biomechanics data, we are creating deep learning models to facilitate accurate multidimensional on-field predictive analytics. Using test sets from multi data-captures which include ground truth force plate and/or source modelling, we see strong correspondence between measured versus predicted ground reaction forces and moments, and knee joint moments, from markers (GRF/M r>0.97, KJM r>0.88, both 8 markers, 33% stance, sidestepping). Currently, we are investigating novel methods to build models for predicting GRF/M from wearable sensors (r>0.88, 4 accelerometers, 100% stance, sidestepping).<br><br>
-William Johnson 
+William R. Johnson 
 <a href="http://www.bristol.ac.uk/engineering/interdisciplinary/cse">BEngHons</a>, 
 <a href="http://www.ecu.edu.au/degrees/courses/master-of-exercise-science-strength-and-conditioning">MExerSc</a>, 
 <a href="https://www.engineersaustralia.org.au/Membership/Chartered">CPEng</a>, 
@@ -167,9 +167,9 @@ https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B
 <br>
 <h3>PhD supervisors</h3>
 <table>
-<tr><th align="left">Jacqueline Alderson</th>
+<tr><th align="left">Jacqueline A. Alderson</th>
 <td align="left">
-<b>School of Human Sciences (Exercise and Sport Science), The University of Western Australia, Perth Australia</b><br>
+<b>School of Human Sciences (Exercise and Sport Science), The University of Western Australia, Perth, Australia</b><br>
 <b>Sports Performance Research Institute New Zealand (SPRINZ), Auckland University of Technology, Auckland, New Zealand</b><br>
 https://research-repository.uwa.edu.au/en/persons/jacqueline-alderson
 </td></tr>
@@ -179,7 +179,7 @@ https://research-repository.uwa.edu.au/en/persons/jacqueline-alderson
 http://staffhome.ecm.uwa.edu.au/~00053650<br>
 <b>Machine Intelligence Group</b><br>
 https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
-<tr><th align="left">David Lloyd</th>
+<tr><th align="left">David G. Lloyd</th>
 <td align="left">
 <b>Menzies Health Institute Queensland, and the School of Allied Health Sciences, Griffith University, Gold Coast, Australia</b><br>
 https://experts.griffith.edu.au/academic/david.lloyd

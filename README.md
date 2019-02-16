@@ -27,7 +27,7 @@
   ---
   --- 5. Modification-History
   ---      Build Author Date      Change
-  ---      a37   wrj    26nov2018 alpha release
+  ---      a39   wrj    16feb2019 alpha release
   --->
 
 <h2>Deep learning workbench for biomechanics<br>http://digitalathlete.org</h2>
@@ -63,7 +63,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 <br>
 <h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
-<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Synthetic accelerations &#183; Workload exposure &#183; Sports analytics</td></tr>
+<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics</td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
 <tr><th align="left">Upcoming Conference</th><td align="left"><b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br><i>In preparation</i></td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
@@ -83,14 +83,15 @@ Presentation with commentary http://bit.ly/2tCKHTo<br>
 <tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
 <tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization<br>(supplementary figure) http://bit.ly/2yTaX1f</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/figures</td></tr>
-<tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/models (1.3GB)<br><br>
+<tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/models (2.6GB)<br><br>
 
 ```
-cat grftrain_180613080625130_mcrnet.caffemodel_j01_* > grftrain_180613080625130_mcrnet.caffemodel_j01 # reconstitute Caffe model 1
+cat grftrain_180612214018112_mcrnet.caffemodel_j01_* > grftrain_180612214018112_mcrnet.caffemodel_j01 # reconstitute donor seed model 01
+cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_mcrnet.caffemodel_j01 # reconstitute CaffeNet model 01
 ```
 
 </td></tr>
-<tr><th align="left">Prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/prototxt</td></tr>
+<tr><th align="left">Caffe prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/prototxt</td></tr>
 </table><br>
 
 <br>
@@ -104,11 +105,11 @@ cat grftrain_180613080625130_mcrnet.caffemodel_j01_* > grftrain_180613080625130_
 <tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br><br>
 
 ```
-cat grftrain_180505092408060_mcrnet.caffemodel_j01_* > grftrain_180505092408060_mcrnet.caffemodel_j01 # reconstitute Caffe model 1
+cat grftrain_190215204017060_mcrnet.caffemodel_j01_* > grftrain_190215204017060_mcrnet.caffemodel_j01 # reconstitute CaffeNet model 01
 ```
 
 </td></tr>
-<tr><th align="left">Prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
+<tr><th align="left">Caffe prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
 <tr><th align="left">CaffeNet reference</th><td align="left">https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
 <tr><th align="left"><a href="http://www.isbs2017.com">ISBS 2017</a><br>conference</th><td align="left"><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
 Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs<br>
@@ -191,7 +192,17 @@ https://experts.griffith.edu.au/academic/david.lloyd
 <h3>Acknowledgements</h3>
 <table>
 <tr><td align="left">
-This project was partially supported by the ARC Discovery Grant DP160101458 and an Australian Government Research Training Program Scholarship. NVIDIA Corporation is gratefully acknowledged for the GPU provision through its Hardware Grant Program, Eigenvector Research for the PLS_Toolbox licence, and C-Motion Inc. for the Visual3D licence. Portions of data included in this study were funded by NHMRC grant 400937.
+This project was partially supported by the 
+<a href="https://www.arc.gov.au/">ARC Discovery Grant DP160101458</a> 
+and an 
+<a href="https://www.education.gov.au/research-training-program">Australian Government Research Training Program Scholarship</a>. 
+<a href="https://developer.nvidia.com/academic_gpu_seeding">NVIDIA Corporation</a> 
+is gratefully acknowledged for the GPU provision through its Hardware Grant Program, 
+<a href="http://www.eigenvector.com/software/pls_toolbox.htm">Eigenvector Research</a> 
+for the PLS_Toolbox licence, and 
+<a href="http://www2.c-motion.com/products/visual3d">C-Motion Inc.</a> 
+for the Visual3D licence. Portions of data included in this study were funded by 
+<a href="https://nhmrc.gov.au/funding">NHMRC grant 400937</a>.
 </td></tr>
 </table><br>
 

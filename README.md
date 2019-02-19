@@ -107,7 +107,7 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 <h3>Study two: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation</td></tr>
-<tr><th align="left"><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10">IEEE TBME</a><br>paper</th><td align="left">https://ieeexplore.ieee.org/document/8408711</td></tr>
+<tr><th align="left"><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10">IEEE TBME</a><br>paper (cover)</th><td align="left">https://ieeexplore.ieee.org/document/8408711</td></tr>
 <tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td></tr>
 <tr><th align="left">CSSE Conference 2017</th><td align="left"><b>Relative performance of Caffe deep learning models for spatio-temporal sport analytics</b><br>Presentation http://bit.ly/2TCWqwM</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>

@@ -53,7 +53,7 @@ William R. Johnson
 <a href="https://www.engineersaustralia.org.au/Membership/Chartered">CPEng</a>, 
 <a href="https://www.nsca.com/certification/cscs">CSCS</a><br>
 
-bill@johnsonwr.com | February 2019<br>
+bill@johnsonwr.com | March 2019<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://signal.org" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
@@ -88,7 +88,7 @@ Presentation with commentary http://bit.ly/2tCKHTo<br>
 <h3>Study three: On-field player workload exposure and knee injury risk monitoring via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics &#183; Deep learning</td></tr>
-<tr><th align="left"><a href="https://arxiv.org">arXiv</a><br>paper</th><td align="left">https://arxiv.org/abs/1809.08016</td></tr>
+<tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1809.08016</td></tr>
 <tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
 <tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization<br>(supplementary figure) http://bit.ly/2yTaX1f</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/figures</td></tr>
@@ -103,34 +103,64 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 <tr><th align="left">Caffe prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/prototxt</td></tr>
 </table><br>
 
+
 <br>
 <h3>Study two: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
-<table>
-<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation</td></tr>
-<tr><th align="left"><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10">IEEE TBME</a><br>paper (<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643665">cover</a>)</th><td align="left">https://ieeexplore.ieee.org/document/8408711</td></tr>
-<tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td></tr>
-<tr><th align="left">CSSE Conference 2017</th><td align="left"><b>Relative performance of Caffe deep learning models for spatio-temporal sport analytics</b><br>Presentation http://bit.ly/2TCWqwM</td></tr>
-<tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
-<tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br><br>
+<table cellpadding=0 cellspacing=0>
+<tr>
+   <th align="left">Keywords</th>
+   <td width=450 align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation</td>
+   <td rowspan=3><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643665" title="Cover"><img src="_readme/cover_tbme_08643665_300px.png"></a></td>
+</tr>
+<tr>
+   <th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th>
+   <td align="left">Paper https://ieeexplore.ieee.org/document/8408711<br>
+   Feature https://tbme.embs.org/2019/03/01/predicting-athlete-ground-reaction-forces-and-moments-from-spatio-temporal-driven-cnn-models</td>
+</tr>
+<tr>
+   <th align="left">Animation</th>
+   <td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td>
+</tr>
+<tr>
+   <th align="left">CSSE Conference 2017</th>
+   <td align="left" colspan=2><b>Relative performance of Caffe deep learning models for spatio-temporal sport analytics</b><br>Presentation http://bit.ly/2TCWqwM</td>
+</tr>
+<tr>
+   <th align="left">MATLAB figures</th>
+   <td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td>
+</tr>
+<tr>
+   <th align="left">Caffe models</th>
+   <td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br><br>
 
 ```
 cat grftrain_190215204017060_mcrnet.caffemodel_j01_* > grftrain_190215204017060_mcrnet.caffemodel_j01 # reconstitute CaffeNet model 01
 ```
 
-</td></tr>
-<tr><th align="left">Caffe prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
-<tr><th align="left">CaffeNet reference</th><td align="left">https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
-<tr><th align="left"><a href="http://www.isbs2017.com">ISBS 2017</a><br>conference</th><td align="left"><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
+   </td>
+</tr>
+<tr>
+   <th align="left">Caffe prototxt</th>
+   <td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td>
+</tr>
+<tr>
+   <th align="left">CaffeNet reference</th>
+   <td align="left" colspan=2>https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td>
+</tr>
+<tr>
+   <th align="left"><a href="http://www.isbs2017.com">ISBS 2017</a><br>conference</th>
+   <td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
 Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs<br>
 Presentation http://bit.ly/2MvqW8c
-</td></tr>
+   </td>
+</tr>
 </table><br>
 
 <br>
 <h3>Study one: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Action recognition &#183; Wearable sensors &#183; Computer simulation</td></tr>
-<tr><th align="left"><a href="http://link.springer.com/journal/11517">MBEC</a><br>paper</th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
+<tr><th align="left"><a href="http://link.springer.com/journal/11517">MBEC</a></th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
 <tr><th align="left">CSSE Conference 2016</th><td align="left">Presentation with commentary http://bit.ly/2kcgXrw</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 <tr><th align="left">R models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (1.9GB)<br><br>

@@ -39,8 +39,6 @@
 <h2>Deep learning workbench for biomechanics<br>http://digitalathlete.org</h2>
 <table cellpadding=0 cellspacing=0>
 <tr>
-
-
 <td width=50%>
 <i>Deep learning models driven by wearable sensor accelerometers can replace laboratory instrumentation and bring biomechanical accuracy and validity to the sports field.</i><br><br>
 By taking a new approach and training convolutional neural networks (CNN) with archive biomechanics data, we facilitate accurate multidimensional on-field predictive analytics for complex sport movements. 
@@ -69,6 +67,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 </td></tr>
 </table>
 
+
 <br>
 <h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
@@ -83,6 +82,7 @@ Abstract (Student Bursary Award) http://bit.ly/2GzYnHD<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
 </table><br>
+
 
 <br>
 <h3>Study three: On-field player workload exposure and knee injury risk monitoring via deep learning</h3>
@@ -155,6 +155,7 @@ Presentation http://bit.ly/2MvqW8c
    </td>
 </tr>
 </table><br>
+
 
 <br>
 <h3>Study one: Predicting athlete ground reaction forces and moments from motion capture</h3>

@@ -65,8 +65,7 @@ bill@johnsonwr.com | March 2019<br>
 <tr><td colspan=2>
 Caution, model files are large, you may not wish to pull the complete repository. GitHub limits file sizes to 100MB, files larger than this have been broken up using <a href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html"><b>split</b></a>. Instructions to reconstitute files are given inline.<br>
 </td></tr>
-</table>
-
+</table><br>
 
 <br>
 <h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
@@ -82,7 +81,6 @@ Abstract (Student Bursary Award) http://bit.ly/2GzYnHD<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
 </table><br>
-
 
 <br>
 <h3>Study three: On-field player workload exposure and knee injury risk monitoring via deep learning</h3>
@@ -102,7 +100,6 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 </td></tr>
 <tr><th align="left">Caffe prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/prototxt</td></tr>
 </table><br>
-
 
 <br>
 <h3>Study two: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
@@ -156,7 +153,6 @@ Presentation http://bit.ly/2MvqW8c
 </tr>
 </table><br>
 
-
 <br>
 <h3>Study one: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
@@ -173,7 +169,6 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 </td></tr>
 <tr><th align="left">R SPLS reference</th><td align="left">https://cran.r-project.org/web/packages/spls/index.html</td></tr>
 </table><br>
-
 
 <br>
 <h3>Recommended courses, groups, and books</h3>
@@ -204,7 +199,6 @@ https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS</td></tr>
 </table><br>
 
-
 <br>
 <h3>PhD supervisors</h3>
 <table>
@@ -226,7 +220,6 @@ https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
 https://experts.griffith.edu.au/academic/david.lloyd
 </td></tr>
 </table><br>
-
 
 <br>
 <h3>Acknowledgements</h3>

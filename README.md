@@ -19,8 +19,11 @@
   ---
   ---      https://guides.github.com/features/mastering-markdown/
   ---      https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  ---      https://stackoverflow.com/questions/4823468/comments-in-markdown
+  ---      https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references
   ---
   ---      &#183; middle dot (LaTeX \cdot)
+  ---      &#233; eacute
   ---
   ---      190218 Earlier title blocks:
   ---      Machine learning driven by wearable sensors brings laboratory-class biomechanical accuracy and validity to the sports field for the first time.
@@ -36,6 +39,9 @@
   ---      a39   wrj    16feb2019 alpha release
   --->
 
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 190303 Introduction --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h2>Deep learning workbench for biomechanics<br>http://digitalathlete.org</h2>
 <table cellpadding=0 cellspacing=0>
 <tr>
@@ -66,8 +72,9 @@ Caution, model files are large, you may not wish to pull the complete repository
 </td></tr>
 </table><br><br>
 
-<!--- Study four>
-
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 190303 Study four --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
@@ -76,14 +83,15 @@ Caution, model files are large, you may not wish to pull the complete repository
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
 Poster (Conference Award) http://bit.ly/2yXgdgO<br>
 </td></tr>
-<tr><th align="left"><a href="http://wcb2018.com">WCB 2018</a><br>conference</th><td align="left">
+<tr><th align="left"><a href="http://wcb2018.com">WCB 2018</a></th><td align="left">
 Abstract (Student Bursary Award) http://bit.ly/2GzYnHD<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
 </table><br><br>
 
-<!--- Study three>
-
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 190303 Study three --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study three: On-field player workload exposure and knee injury risk monitoring via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
@@ -102,8 +110,9 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 <tr><th align="left">Caffe prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/prototxt</td></tr>
 </table><br><br>
 
-<!--- Study two>
-
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 190303 Study two --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study two: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
 <table cellpadding=0 cellspacing=0>
 <tr>
@@ -121,7 +130,7 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
    <td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td>
 </tr>
 <tr>
-   <th align="left">CSSE Conference 2017</th>
+   <th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2017</th>
    <td align="left" colspan=2><b>Relative performance of Caffe deep learning models for spatio-temporal sport analytics</b><br>Presentation http://bit.ly/2TCWqwM</td>
 </tr>
 <tr>
@@ -147,7 +156,7 @@ cat grftrain_190215204017060_mcrnet.caffemodel_j01_* > grftrain_190215204017060_
    <td align="left" colspan=2>https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td>
 </tr>
 <tr>
-   <th align="left"><a href="http://www.isbs2017.com">ISBS 2017</a><br>conference</th>
+   <th align="left"><a href="http://www.isbs2017.com">ISBS 2017</a></th>
    <td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
 Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs<br>
 Presentation http://bit.ly/2MvqW8c
@@ -155,13 +164,14 @@ Presentation http://bit.ly/2MvqW8c
 </tr>
 </table><br><br>
 
-<!--- Study one>
-
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 190303 Study one --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study one: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Action recognition &#183; Wearable sensors &#183; Computer simulation</td></tr>
 <tr><th align="left"><a href="http://link.springer.com/journal/11517">MBEC</a></th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7</td></tr>
-<tr><th align="left">CSSE Conference 2016</th><td align="left">Presentation with commentary http://bit.ly/2kcgXrw</td></tr>
+<tr><th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2016</th><td align="left">Presentation with commentary http://bit.ly/2kcgXrw</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 <tr><th align="left">R models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (1.9GB)<br><br>
   
@@ -173,9 +183,10 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <tr><th align="left">R SPLS reference</th><td align="left">https://cran.r-project.org/web/packages/spls/index.html</td></tr>
 </table><br><br>
 
-<!--- Recommended courses, groups, and books>
-
-<h3>Recommended courses, groups, and books</h3>
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 190303 Recommended courses, groups & books --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<h3>Recommended courses, groups & books</h3>
 <table>
 <tr><th align="left">Andrew Ng</th>
 <td align="left"><b>Machine Learning course</b><br>
@@ -198,13 +209,14 @@ https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618<
 <tr><th align="left">Sebastian Raschka</th>
 <td align="left"><b>Python Machine Learning</b><br>
 https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF</td></tr>
-<tr><th align="left">AurÃ©lien GÃ©ron</th>
+<tr><th align="left">Aur&#233;lien G&#233;ron</th>
 <td align="left"><b>Hands-On Machine Learning with Scikit-Learn & TensorFlow</b><br>
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS</td></tr>
 </table><br><br>
 
-<!--- PhD supervisors>
-
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 190303 PhD supervisors --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>PhD supervisors</h3>
 <table>
 <tr><th align="left">Jacqueline A. Alderson</th>
@@ -226,8 +238,9 @@ https://experts.griffith.edu.au/academic/david.lloyd
 </td></tr>
 </table><br><br>
 
-<!--- Acknowledgements>
-
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 190303 Acknowledgements --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Acknowledgements</h3>
 <table>
 <tr><td align="left">
@@ -245,4 +258,4 @@ for the Visual3D licence. Portions of data included in this study were funded by
 </td></tr>
 </table><br><br>
 
-<!--- end>
+<!--- end --->

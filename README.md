@@ -79,7 +79,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
-<tr><th align="left">Upcoming Conference</th><td align="left"><b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br><i>In preparation</i></td></tr>
+<tr><th align="left">Upcoming Conference</th><td align="left"><b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br><i>In review</i></td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
 Poster (Conference Award) http://bit.ly/2yXgdgO<br>
 </td></tr>
@@ -191,6 +191,7 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <tr><th align="left">Andrew Ng</th>
 <td align="left"><b>Machine Learning course</b><br>
 https://www.coursera.org/learn/machine-learning<br>
+https://www.coursera.org/learn/ai-for-everyone<br>
 http://cs229.stanford.edu<br>
 http://www.mlyearning.org</td></tr>
 <tr><th align="left">Fei-Fei Li</th>

@@ -67,6 +67,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 </table><br><br>
 
 <!--- Study four>
+
 <h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
@@ -82,6 +83,7 @@ Presentation with commentary http://bit.ly/2tCKHTo<br>
 </table><br><br>
 
 <!--- Study three>
+
 <h3>Study three: On-field player workload exposure and knee injury risk monitoring via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
@@ -101,6 +103,7 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 </table><br><br>
 
 <!--- Study two>
+
 <h3>Study two: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
 <table cellpadding=0 cellspacing=0>
 <tr>
@@ -153,6 +156,7 @@ Presentation http://bit.ly/2MvqW8c
 </table><br><br>
 
 <!--- Study one>
+
 <h3>Study one: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Action recognition &#183; Wearable sensors &#183; Computer simulation</td></tr>
@@ -170,6 +174,7 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 </table><br><br>
 
 <!--- Recommended courses, groups, and books>
+
 <h3>Recommended courses, groups, and books</h3>
 <table>
 <tr><th align="left">Andrew Ng</th>
@@ -199,6 +204,7 @@ https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B
 </table><br><br>
 
 <!--- PhD supervisors>
+
 <h3>PhD supervisors</h3>
 <table>
 <tr><th align="left">Jacqueline A. Alderson</th>
@@ -221,6 +227,7 @@ https://experts.griffith.edu.au/academic/david.lloyd
 </table><br><br>
 
 <!--- Acknowledgements>
+
 <h3>Acknowledgements</h3>
 <table>
 <tr><td align="left">

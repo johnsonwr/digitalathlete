@@ -53,10 +53,9 @@ William R. Johnson
 
 bill@johnsonwr.com | March 2019<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
-<a href="https://signal.org" title="Signal"><img src="_readme/Signal_Blue_Icon_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
-<a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_32x32.format_png.resize_32x32.png" width="32" height="32"></a>
-<a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/linkedin.png" width="32" height="32"></a>
-<a href="https://github.com/johnsonwr" title="GitHub"><img src="_readme/github.png" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
+<a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
+<a href="https://signal.org" title="Google Scholar"><img src="_readme/543883659e_blue_sq_trim_383px.png" width="32" height="32"></a>
 <a href="http://www2.c-motion.com/products/visual3d" title="C-Motion"><img src="_readme/c-motion_background_white.png" width="120"></a>
 <a href="https://developer.nvidia.com/academic_gpu_seeding" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" width="140"></a>
 </td>
@@ -65,12 +64,12 @@ bill@johnsonwr.com | March 2019<br>
 <tr><td colspan=2>
 Caution, model files are large, you may not wish to pull the complete repository. GitHub limits file sizes to 100MB, files larger than this have been broken up using <a href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html"><b>split</b></a>. Instructions to reconstitute files are given inline.<br>
 </td></tr>
-</table><br>
+</table><br><br>
 
-<br>
+<!--- Study four>
 <h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
-<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics</td></tr>
+<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
 <tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
 <tr><th align="left">Upcoming Conference</th><td align="left"><b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br><i>In preparation</i></td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
@@ -80,12 +79,12 @@ Poster (Conference Award) http://bit.ly/2yXgdgO<br>
 Abstract (Student Bursary Award) http://bit.ly/2GzYnHD<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
-</table><br>
+</table><br><br>
 
-<br>
+<!--- Study three>
 <h3>Study three: On-field player workload exposure and knee injury risk monitoring via deep learning</h3>
 <table>
-<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics &#183; Deep learning</td></tr>
+<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1809.08016</td></tr>
 <tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
 <tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization<br>(supplementary figure) http://bit.ly/2yTaX1f</td></tr>
@@ -99,14 +98,14 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 
 </td></tr>
 <tr><th align="left">Caffe prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/prototxt</td></tr>
-</table><br>
+</table><br><br>
 
-<br>
+<!--- Study two>
 <h3>Study two: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
 <table cellpadding=0 cellspacing=0>
 <tr>
    <th align="left">Keywords</th>
-   <td width=450 align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation</td>
+   <td width=450 align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation &#183; Pattern analysis</td>
    <td rowspan=3><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643665" title="Cover"><img src="_readme/cover_tbme_08643665_300px.png"></a></td>
 </tr>
 <tr>
@@ -151,9 +150,9 @@ Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&art
 Presentation http://bit.ly/2MvqW8c
    </td>
 </tr>
-</table><br>
+</table><br><br>
 
-<br>
+<!--- Study one>
 <h3>Study one: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Action recognition &#183; Wearable sensors &#183; Computer simulation</td></tr>
@@ -168,9 +167,9 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
   
 </td></tr>
 <tr><th align="left">R SPLS reference</th><td align="left">https://cran.r-project.org/web/packages/spls/index.html</td></tr>
-</table><br>
+</table><br><br>
 
-<br>
+<!--- Recommended courses, groups, and books>
 <h3>Recommended courses, groups, and books</h3>
 <table>
 <tr><th align="left">Andrew Ng</th>
@@ -194,12 +193,12 @@ https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618<
 <tr><th align="left">Sebastian Raschka</th>
 <td align="left"><b>Python Machine Learning</b><br>
 https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF</td></tr>
-<tr><th align="left">Aurélien Géron</th>
+<tr><th align="left">AurÃ©lien GÃ©ron</th>
 <td align="left"><b>Hands-On Machine Learning with Scikit-Learn & TensorFlow</b><br>
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS</td></tr>
-</table><br>
+</table><br><br>
 
-<br>
+<!--- PhD supervisors>
 <h3>PhD supervisors</h3>
 <table>
 <tr><th align="left">Jacqueline A. Alderson</th>
@@ -219,9 +218,9 @@ https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
 <b>Menzies Health Institute Queensland, and the School of Allied Health Sciences, Griffith University, Gold Coast, Australia</b><br>
 https://experts.griffith.edu.au/academic/david.lloyd
 </td></tr>
-</table><br>
+</table><br><br>
 
-<br>
+<!--- Acknowledgements>
 <h3>Acknowledgements</h3>
 <table>
 <tr><td align="left">
@@ -237,6 +236,6 @@ for the PLS_Toolbox licence, and
 for the Visual3D licence. Portions of data included in this study were funded by 
 <a href="https://nhmrc.gov.au/funding">NHMRC grant 400937</a>.
 </td></tr>
-</table><br>
+</table><br><br>
 
 <!--- end>

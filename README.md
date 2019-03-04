@@ -107,7 +107,7 @@ Presentation with commentary http://bit.ly/2tCKHTo<br>
 <tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/models (2.6GB)<br><br>
 
 ```
-cat grftrain_180612214018112_mcrnet.caffemodel_j01_* > grftrain_180612214018112_mcrnet.caffemodel_j01 # reconstitute donor seed model 01
+cat grftrain_180612214018112_mcrnet.caffemodel_j01_* > grftrain_180612214018112_mcrnet.caffemodel_j01 # reconstitute CaffeNet donor seed model 01
 cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_mcrnet.caffemodel_j01 # reconstitute CaffeNet model 01
 ```
 

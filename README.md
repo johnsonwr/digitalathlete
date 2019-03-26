@@ -193,31 +193,31 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Recommended courses, groups & books</h3>
 <table>
-<tr><th align="left">Andrew Ng</th>
+<tr><th align="left"><a href="https://www.andrewng.org">Andrew Ng</a></th>
 <td align="left"><b>Machine Learning course</b><br>
 https://www.coursera.org/learn/machine-learning<br>
 https://www.coursera.org/learn/ai-for-everyone<br>
 http://cs229.stanford.edu<br>
 http://www.mlyearning.org</td></tr>
-<tr><th align="left">Fei-Fei Li</th>
+<tr><th align="left"><a href="http://vision.stanford.edu/feifeili">Fei-Fei Li</a></th>
 <td align="left"><b>Stanford Convolutional Neural Networks for Visual Recognition</b><br>
 http://cs231n.stanford.edu<br>
 http://cs231n.github.io</td></tr>
-<tr><th align="left">Sean Driver</th>
+<tr><th align="left"><a href="http://www.iangoodfellow.com">Ian Goodfellow</a></th>
+<td align="left"><b>Deep Learning</b><br>
+http://www.deeplearningbook.org<br>
+https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618</td></tr>
+<tr><th align="left"><a href="https://sebastianraschka.com">Sebastian Raschka</a></th>
+<td align="left"><b>Python Machine Learning</b><br>
+https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF</td></tr>
+<tr><th align="left"><a href="https://github.com/ageron">Aur&#233;lien G&#233;ron</a></th>
+<td align="left"><b>Hands-On Machine Learning with Scikit-Learn & TensorFlow</b><br>
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS</td></tr>
+<tr><th align="left"><a href="https://www.meetup.com/en-AU/Perth-Machine-Learning-Group/members/196687236">Sean Driver</a></th>
 <td align="left"><b>Perth Machine Learning Group</b><br>
 https://www.meetup.com/en-AU/Perth-Machine-Learning-Group<br>
 https://github.com/pmlg/pmlg.github.io<br>
 https://www.fast.ai</td></tr>
-<tr><th align="left">Ian Goodfellow</th>
-<td align="left"><b>Deep Learning</b><br>
-http://www.deeplearningbook.org<br>
-https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618</td></tr>
-<tr><th align="left">Sebastian Raschka</th>
-<td align="left"><b>Python Machine Learning</b><br>
-https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF</td></tr>
-<tr><th align="left">Aur&#233;lien G&#233;ron</th>
-<td align="left"><b>Hands-On Machine Learning with Scikit-Learn & TensorFlow</b><br>
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->

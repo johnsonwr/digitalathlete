@@ -54,7 +54,7 @@
 <i>Deep learning models driven by wearable sensor accelerometers can replace captive laboratory instrumentation to facilitate biomechanical accuracy and validity anywhere</i><br><br>
 By employing a new deep learning workbench for spatio-temporal data, we train convolutional neural networks (CNN) with archive biomechanics data to predict accurate multidimensional on-field analytics for complex sports movements. 
 Using test sets from multi data-captures which include ground truth force plate or source modeling, we see strong correspondence between measured versus predicted ground reaction forces and moments, and knee joint moments. 
-From eight markers, study two GRF/M mean r>0.97, study three KJM mean r>0.88, and from five wearable sensor accelerometers, study four GRF mean r>0.87.
+Driven by eight markers, study two GRF/M mean r>0.97, study three KJM mean r>0.88, and from five wearable sensor accelerometers, study four GRF mean r>0.87.
 <br><br>
 William R. Johnson 
 <a href="http://www.bristol.ac.uk/engineering/interdisciplinary/cse">BEngHons</a>, 
@@ -78,12 +78,12 @@ Caution, model files are large, you may not wish to pull the complete repository
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 190303 Study four --->
+<!--- 190319 Study four --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
-<tr><th align="left">Paper</th><td align="left"><i>In preparation</i><br></td></tr>
+<tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1903.07221</td></tr>
 <tr><th align="left">Upcoming Conference</th><td align="left"><b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br><i>In review</i></td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
 Poster (Conference Award) http://bit.ly/2yXgdgO<br>
@@ -92,6 +92,16 @@ Poster (Conference Award) http://bit.ly/2yXgdgO<br>
 Abstract (Student Bursary Award) http://bit.ly/2GzYnHD<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
+<tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study4/figures</td></tr>
+<tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study4/models (637MB)
+
+```
+cat grftrain_181112104456175_mcrnet.caffemodel_* > grftrain_181112104456175_mcrnet.caffemodel # reconstitute CaffeNet donor seed model
+cat grftrain_181123170749181_mcrnet.caffemodel_* > grftrain_181123170749181_mcrnet.caffemodel # reconstitute CaffeNet model
+```
+
+</td></tr>
+<tr><th align="left">Prototxt</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study4/prototxt</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
@@ -123,7 +133,7 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 <tr>
    <th align="left">Keywords</th>
    <td width=450 align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation &#183; Pattern analysis</td>
-   <td rowspan=3><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643665" title="Cover"><img src="_readme/cover_tbme_08643665_300px.png"></a></td>
+   <td rowspan=3><a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8643653" title="Cover"><img src="_readme/cover_tbme_08643665_300px.png"></a></td>
 </tr>
 <tr>
    <th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th>

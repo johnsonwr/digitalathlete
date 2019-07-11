@@ -62,7 +62,7 @@ William R. Johnson
 <a href="https://www.engineersaustralia.org.au/Membership/Chartered">CPEng</a>, 
 <a href="https://www.nsca.com/certification/cscs">CSCS</a><br>
 
-bill@johnsonwr.com | March 2019<br>
+bill@johnsonwr.com | July 2019<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -105,11 +105,12 @@ cat grftrain_181123170749181_mcrnet.caffemodel_* > grftrain_181123170749181_mcrn
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 190303 Study three --->
+<!--- 190711 Study three --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study three: On-field player workload exposure and knee injury risk monitoring via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
+<tr><th align="left"><a href="https://www.sciencedirect.com/journal/journal-of-biomechanics">Journal of Biomechanics</a></th><td align="left">https://www.sciencedirect.com/science/article/abs/pii/S0021929019304427</td></tr>
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1809.08016</td></tr>
 <tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
 <tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization<br>(supplementary figure) http://bit.ly/2yTaX1f</td></tr>

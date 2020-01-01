@@ -46,6 +46,9 @@
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <!--- 190303 Introduction --->
+<!--- <a href="http://www.bristol.ac.uk/engineering/interdisciplinary/cse">BEngHons</a>, --->
+<!--- <a href="http://www.ecu.edu.au/degrees/courses/master-of-exercise-science-strength-and-conditioning">MExerSc</a>, --->
+<!--- <a href="https://www.engineersaustralia.org.au/Membership/Chartered">CPEng</a>, --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h2>Non-invasive estimation of ground and joint kinetics through deep learning<br>http://digitalathlete.org</h2>
 <table cellpadding=0 cellspacing=0>
@@ -57,12 +60,9 @@ Using test sets from multi data-captures which include ground truth force plate 
 Driven by eight markers, study two GRF/M mean r>0.97, study three KJM mean r>0.88, and from five wearable sensor accelerometers, study four GRF mean r>0.87.
 <br><br>
 William R. Johnson 
-<a href="http://www.bristol.ac.uk/engineering/interdisciplinary/cse">BEngHons</a>, 
-<a href="http://www.ecu.edu.au/degrees/courses/master-of-exercise-science-strength-and-conditioning">MExerSc</a>, 
-<a href="https://www.engineersaustralia.org.au/Membership/Chartered">CPEng</a>, 
+<a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a>, 
 <a href="https://www.nsca.com/certification/cscs">CSCS</a><br>
-
-bill@johnsonwr.com | July 2019<br>
+bill@johnsonwr.com | December 2019<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>

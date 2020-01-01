@@ -87,10 +87,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 <tr><th align="left"><a href="https://isb2019.com/en">ISB/ASB 2019</a></th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
 Abstract http://bit.ly/2M9j3rw<br>
-Presentation http://bit.ly/2SHcsYv<br><br>
-<b>Predicting ground and joint kinetics from wearable sensor accelerations via deep learning</b><br>
-Abstract http://bit.ly/2y7mZ3A<br>
-Presentation http://bit.ly/2rIh2uo<br>
+Presentation http://bit.ly/2SHcsYv<br>
 </td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
 Poster (Conference Award) http://bit.ly/2yXgdgO<br>
@@ -122,7 +119,7 @@ cat grftrain_181123170749181_mcrnet.caffemodel_* > grftrain_181123170749181_mcrn
 <tr><th align="left"><a href="https://isb2019.com/en">ISB/ASB 2019</a></th><td align="left">
 <b>Predicting ground and joint kinetics from wearable sensor accelerations via deep learning</b><br>
 Abstract http://bit.ly/2y7mZ3A<br>
-Presentation with commentary <i>(pending)</i><br>
+Presentation http://bit.ly/2rIh2uo<br>
 </td></tr>
 <tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
 <tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization<br>(supplementary figure) http://bit.ly/2yTaX1f</td></tr>

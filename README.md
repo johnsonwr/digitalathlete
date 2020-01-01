@@ -40,8 +40,8 @@
   ---      From eight markers, study two GRF/M mean r>0.97, study three KJM mean r>0.88, and from five wearable sensor accelerometers, study four GRF mean r>0.87. 
   ---
   --- 5. Modification-History
-  ---      Build Author Date      Change
-  ---      a39   wrj    16feb2019 alpha release
+  ---      Build Author Date      Release
+  ---      a**   wrj    31dec2019 alpha (untracked)
   --->
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
@@ -87,7 +87,10 @@ Caution, model files are large, you may not wish to pull the complete repository
 <tr><th align="left"><a href="https://isb2019.com/en">ISB/ASB 2019</a></th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
 Abstract http://bit.ly/2M9j3rw<br>
-Presentation with commentary <i>(pending)</i><br>
+Presentation<i>(pending)</i><br><br>
+<b>Predicting ground and joint kinetics from wearable sensor accelerations via deep learning</b><br>
+Abstract http://bit.ly/2y7mZ3A<br>
+Presentation<i>(pending)</i><br><br>
 </td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
 Poster (Conference Award) http://bit.ly/2yXgdgO<br>

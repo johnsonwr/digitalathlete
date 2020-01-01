@@ -87,10 +87,10 @@ Caution, model files are large, you may not wish to pull the complete repository
 <tr><th align="left"><a href="https://isb2019.com/en">ISB/ASB 2019</a></th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
 Abstract http://bit.ly/2M9j3rw<br>
-Presentation<i>(pending)</i><br><br>
+Presentation http://bit.ly/2SHcsYv<br><br>
 <b>Predicting ground and joint kinetics from wearable sensor accelerations via deep learning</b><br>
 Abstract http://bit.ly/2y7mZ3A<br>
-Presentation<i>(pending)</i><br><br>
+Presentation http://bit.ly/2rIh2uo<br>
 </td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
 Poster (Conference Award) http://bit.ly/2yXgdgO<br>

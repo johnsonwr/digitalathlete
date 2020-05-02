@@ -85,7 +85,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1903.07221</td></tr>
-<tr><th align="left"><a href="https://isb2019.com/en">ISB2019</a> (<a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a>)</th><td align="left">
+<tr><th align="left"><a href="https://isb2019.com">ISB2019</a> (<a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a>)</th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
 Abstract http://bit.ly/2M9j3rw<br>
 Presentation http://bit.ly/2SHcsYv<br>
@@ -93,7 +93,7 @@ Presentation http://bit.ly/2SHcsYv<br>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
 Poster (Conference Award) http://bit.ly/2yXgdgO<br>
 </td></tr>
-<tr><th align="left"><a href="http://wcb2018.com">WCB 2018</a></th><td align="left">
+<tr><th align="left"><a href="http://wcb2018.com">WCB2018</a></th><td align="left">
 Abstract (Student Bursary Award) http://bit.ly/2GzYnHD<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
@@ -117,7 +117,7 @@ cat grftrain_181123170749181_mcrnet.caffemodel_* > grftrain_181123170749181_mcrn
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
 <tr><th align="left"><a href="https://www.sciencedirect.com/journal/journal-of-biomechanics">Journal of Biomechanics</a></th><td align="left">https://www.sciencedirect.com/science/article/abs/pii/S0021929019304427</td></tr>
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1809.08016</td></tr>
-<tr><th align="left"><a href="https://isb2019.com/en">ISB2019</a> (<a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a>)</th><td align="left">
+<tr><th align="left"><a href="https://isb2019.com">ISB2019</a> (<a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a>)</th><td align="left">
 <b>Predicting ground and joint kinetics from wearable sensor accelerations via deep learning</b><br>
 Abstract http://bit.ly/2y7mZ3A<br>
 Presentation (panel) http://bit.ly/2rIh2uo<br>

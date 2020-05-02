@@ -45,10 +45,11 @@
   --->
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 190303 Introduction --->
-<!--- <a href="http://www.bristol.ac.uk/engineering/interdisciplinary/cse">BEngHons</a>, --->
-<!--- <a href="http://www.ecu.edu.au/degrees/courses/master-of-exercise-science-strength-and-conditioning">MExerSc</a>, --->
-<!--- <a href="https://www.engineersaustralia.org.au/Membership/Chartered">CPEng</a>, --->
+<!--- 200501 Introduction --->
+<!--- <a href="https://www.bristol.ac.uk/study/undergraduate/2021/electrical-electronic-eng/beng-computer-science-and-electronics">BEngHons</a> --->
+<!--- - was <a href="http://www.bristol.ac.uk/engineering/interdisciplinary/cse">BEngHons</a> --->
+<!--- <a href="http://www.ecu.edu.au/degrees/courses/master-of-exercise-science-strength-and-conditioning">MExerSc</a> --->
+<!--- <a href="https://www.engineersaustralia.org.au/Membership/Chartered">CPEng</a> --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h2>Non-invasive estimation of ground and joint kinetics through deep learning<br>http://digitalathlete.org</h2>
 <table cellpadding=0 cellspacing=0>
@@ -60,9 +61,9 @@ Using test sets from multi data-captures which include ground truth force plate 
 Driven by eight markers, study two GRF/M mean r>0.97, study three KJM mean r>0.88, and from five wearable sensor accelerometers, study four GRF mean r>0.87.
 <br><br>
 William R. Johnson 
-<a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a>, 
-<a href="https://www.nsca.com/certification/cscs">CSCS</a><br>
-bill@johnsonwr.com | December 2019<br>
+<a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
+<a href="https://www.nsca.com/certification/cscs">CSCS</a>
+<br>bill@johnsonwr.com | May 2020<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -119,7 +120,7 @@ cat grftrain_181123170749181_mcrnet.caffemodel_* > grftrain_181123170749181_mcrn
 <tr><th align="left"><a href="https://isb2019.com/en">ISB/ASB 2019</a></th><td align="left">
 <b>Predicting ground and joint kinetics from wearable sensor accelerations via deep learning</b><br>
 Abstract http://bit.ly/2y7mZ3A<br>
-Presentation http://bit.ly/2rIh2uo<br>
+Presentation (panel) http://bit.ly/2rIh2uo<br>
 </td></tr>
 <tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
 <tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization<br>(supplementary figure) http://bit.ly/2yTaX1f</td></tr>
@@ -140,53 +141,28 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study two: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
 <table cellpadding=0 cellspacing=0>
-<tr>
-   <th align="left">Keywords</th>
-   <td width=450 align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation &#183; Pattern analysis</td>
-   <td rowspan=3><a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8643653" title="Cover"><img src="_readme/cover_tbme_08643665_300px.png"></a></td>
-</tr>
-<tr>
-   <th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th>
-   <td align="left">Paper https://ieeexplore.ieee.org/document/8408711<br>
-   Feature https://tbme.embs.org/2019/03/01/predicting-athlete-ground-reaction-forces-and-moments-from-spatio-temporal-driven-cnn-models</td>
-</tr>
-<tr>
-   <th align="left">Animation</th>
-   <td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td>
-</tr>
-<tr>
-   <th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2017</th>
-   <td align="left" colspan=2><b>Relative performance of Caffe deep learning models for spatio-temporal sport analytics</b><br>Presentation http://bit.ly/2TCWqwM</td>
-</tr>
-<tr>
-   <th align="left">MATLAB figures</th>
-   <td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td>
-</tr>
-<tr>
-   <th align="left">Caffe models</th>
-   <td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br><br>
+<tr><th align="left">Keywords</th><td width=450 align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation &#183; Pattern analysis</td><td rowspan=3><a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8643653" title="Cover"><img src="_readme/cover_tbme_08643665_300px.png"></a></td></tr>
+<tr><th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th>
+<td align="left">
+Paper https://ieeexplore.ieee.org/document/8408711<br>
+Feature https://tbme.embs.org/2019/03/01/predicting-athlete-ground-reaction-forces-and-moments-from-spatio-temporal-driven-cnn-models</td></tr>
+<tr><th align="left">Animation</th>
+<td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td></tr>
+<tr><th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2017</th>
+<td align="left" colspan=2><b>Relative performance of Caffe deep learning models for spatio-temporal sport analytics</b><br>Presentation http://bit.ly/2TCWqwM</td></tr>
+<tr><th align="left">MATLAB figures</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
+<tr><th align="left">Caffe models</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br><br>
 
 ```
 cat grftrain_190215204017060_mcrnet.caffemodel_j01_* > grftrain_190215204017060_mcrnet.caffemodel_j01 # reconstitute CaffeNet model 01
 ```
 
-   </td>
-</tr>
-<tr>
-   <th align="left">Caffe prototxt</th>
-   <td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td>
-</tr>
-<tr>
-   <th align="left">CaffeNet reference</th>
-   <td align="left" colspan=2>https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td>
-</tr>
-<tr>
-   <th align="left"><a href="http://www.isbs2017.com">ISBS 2017</a></th>
-   <td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
+</td></tr>
+<tr><th align="left">Caffe prototxt</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
+<tr><th align="left">CaffeNet reference</th><td align="left" colspan=2>https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
+<tr><th align="left"><a href="http://www.isbs2017.com">ISBS 2017</a></th><td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
 Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs<br>
-Presentation http://bit.ly/2MvqW8c
-   </td>
-</tr>
+Presentation http://bit.ly/2MvqW8c</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
@@ -209,9 +185,9 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 190303 Recommended courses, groups & books --->
+<!--- 200501 Machine Learning resources, courses, groups & books --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<h3>Recommended courses, groups & books</h3>
+<h3>Machine Learning resources</h3>
 <table>
 <tr><th align="left"><a href="https://www.andrewng.org">Andrew Ng</a></th>
 <td align="left"><b>Machine Learning course</b><br>
@@ -227,6 +203,9 @@ http://cs231n.github.io</td></tr>
 <td align="left"><b>Deep Learning</b><br>
 http://www.deeplearningbook.org<br>
 https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618</td></tr>
+<tr><th align="left">Bill Lubanovic</th>
+<td align="left"><b>Introducing Python</b><br>
+https://www.amazon.com/Introducing-Python-Modern-Computing-Packages/dp/1449359361</td></tr>
 <tr><th align="left"><a href="https://sebastianraschka.com">Sebastian Raschka</a></th>
 <td align="left"><b>Python Machine Learning</b><br>
 https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF</td></tr>
@@ -238,6 +217,37 @@ https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B
 https://www.meetup.com/en-AU/Perth-Machine-Learning-Group<br>
 https://github.com/pmlg/pmlg.github.io<br>
 https://www.fast.ai</td></tr>
+</table><br><br>
+
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 200501 Biomechanics resources, courses, groups & books --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<h3>Biomechanics resources</h3>
+<table>
+<tr><th align="left"><a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">The University of Western Australia</a></th>
+<td align="left"><b>Biomechanics courses</b><br>
+<a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH2250">UWA SSEH2250, Biomechanics in Sport and Exercise</a><br>
+<a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH3355">UWA SSEH3355, Biomechanical Principles</a><br>
+<a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH4633">UWA UWA SSEH4633, Advanced Biomechanical Methods</a><br>
+</td></tr>
+<tr><th align="left">Roger Bartlett</th>
+<td align="left"><b>Introduction to Sports Biomechanics</b><br>
+https://www.amazon.com/Introduction-Sports-Biomechanics-Analysing-Movement/dp/0415632439</td></tr>
+<tr><th align="left">Joseph Hamill, Kathleen Knutzen, Timothy Derrick</th>
+<td align="left"><b>Biomechanical basis of human movement</b><br>
+https://www.amazon.com/Biomechanical-Basis-Movement-Joseph-Hamill/dp/1451177305</td></tr>
+<tr><th align="left">Jim Richards</th>
+<td align="left"><b>Biomechanics in clinic and research: An interactive teaching and learning course</b><br>
+https://www.amazon.com/Biomechanics-Clinic-Research-interactive-teaching/dp/0443101701</td></tr>
+<tr><th align="left">Carl Peyton, Adrian Burden</th>
+<td align="left"><b>Biomechanical evaluation of movement in sport and exercise</b><br>
+https://www.amazon.com/Biomechanical-Evaluation-Movement-Exercise-Science/dp/0415632668</td></tr>
+<tr><th align="left">Youlian Hong, Roger Bartlett</th>
+<td align="left"><b>Routledge Handbook of biomechanics and human movement science</b><br>
+https://www.amazon.com/Routledge-Handbook-Biomechanics-International-Handbooks-ebook/dp/B001PC1ZX8</td></tr>
+<tr><th align="left">David Winter</th>
+<td align="left"><b>Biomechanics and motor control of human movement</b><br>
+https://www.amazon.com/Biomechanics-Motor-Control-Human-Movement/dp/0470398183</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
@@ -265,13 +275,14 @@ https://experts.griffith.edu.au/academic/david.lloyd
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 190303 Acknowledgements --->
+<!--- 200501 Acknowledgements --->
+<!--- 200501 DP160101458 replaced by DP190102443 --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Acknowledgements</h3>
 <table>
 <tr><td align="left">
 This project was partially supported by the 
-<a href="https://www.arc.gov.au/">ARC Discovery Grant DP160101458</a> 
+<a href="https://www.arc.gov.au/">ARC Discovery Grant DP190102443</a> 
 and an 
 <a href="https://www.education.gov.au/research-training-program">Australian Government Research Training Program Scholarship</a>. 
 <a href="https://developer.nvidia.com/academic_gpu_seeding">NVIDIA Corporation</a> 

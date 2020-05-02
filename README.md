@@ -224,7 +224,7 @@ https://www.fast.ai</td></tr>
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Biomechanics resources</h3>
 <table>
-<tr><th align="left"><a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">The University of Western Australia</a></th>
+<tr><th align="left"><a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">The University<br>of Western Australia</a></th>
 <td align="left"><b>Biomechanics courses</b><br>
 <a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH2250">SSEH2250 Biomechanics in Sport and Exercise</a><br>
 <a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH3355">SSEH3355 Biomechanical Principles</a><br>
@@ -238,7 +238,7 @@ https://www.amazon.com/Introduction-Sports-Biomechanics-Analysing-Movement/dp/04
 https://www.amazon.com/Biomechanical-Basis-Movement-Joseph-Hamill/dp/1451177305</td></tr>
 <tr><th align="left">Jim Richards</th>
 <td align="left"><b>Biomechanics in Clinic and Research: An Interactive Teaching and Learning Course</b><br>
-https://www.amazon.com/Biomechanics-Clinic-Research-interactive-teaching/dp/0443101701</td></tr>
+https://www.amazon.com/Comprehensive-Textbook-Clinical-Biomechanics-learning/dp/0702054895</td></tr>
 <tr><th align="left">Carl Peyton<br>Adrian Burden</th>
 <td align="left"><b>Biomechanical Evaluation of Movement in Sport and Exercise</b><br>
 https://www.amazon.com/Biomechanical-Evaluation-Movement-Exercise-Science/dp/0415632668</td></tr>

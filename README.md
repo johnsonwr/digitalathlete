@@ -85,7 +85,7 @@ Caution, model files are large, you may not wish to pull the complete repository
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1903.07221</td></tr>
-<tr><th align="left"><a href="https://isb2019.com/en">ISB/ASB 2019</a></th><td align="left">
+<tr><th align="left"><a href="https://isb2019.com/en">ISB2019</a> (<a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a>)</th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
 Abstract http://bit.ly/2M9j3rw<br>
 Presentation http://bit.ly/2SHcsYv<br>
@@ -117,7 +117,7 @@ cat grftrain_181123170749181_mcrnet.caffemodel_* > grftrain_181123170749181_mcrn
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
 <tr><th align="left"><a href="https://www.sciencedirect.com/journal/journal-of-biomechanics">Journal of Biomechanics</a></th><td align="left">https://www.sciencedirect.com/science/article/abs/pii/S0021929019304427</td></tr>
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1809.08016</td></tr>
-<tr><th align="left"><a href="https://isb2019.com/en">ISB/ASB 2019</a></th><td align="left">
+<tr><th align="left"><a href="https://isb2019.com/en">ISB2019</a> (<a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a>)</th><td align="left">
 <b>Predicting ground and joint kinetics from wearable sensor accelerations via deep learning</b><br>
 Abstract http://bit.ly/2y7mZ3A<br>
 Presentation (panel) http://bit.ly/2rIh2uo<br>
@@ -160,7 +160,7 @@ cat grftrain_190215204017060_mcrnet.caffemodel_j01_* > grftrain_190215204017060_
 </td></tr>
 <tr><th align="left">Caffe prototxt</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
 <tr><th align="left">CaffeNet reference</th><td align="left" colspan=2>https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
-<tr><th align="left"><a href="http://www.isbs2017.com">ISBS 2017</a></th><td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
+<tr><th align="left"><a href="http://www.isbs2017.com">ISBS2017</a> (<a href="https://isbs.org">ISBS</a>)</th><td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
 Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs<br>
 Presentation http://bit.ly/2MvqW8c</td></tr>
 </table><br><br>
@@ -248,6 +248,15 @@ https://www.amazon.com/Routledge-Handbook-Biomechanics-International-Handbooks-e
 <tr><th align="left">David Winter</th>
 <td align="left"><b>Biomechanics and Motor Control of Human Movement</b><br>
 https://www.amazon.com/Biomechanics-Motor-Control-Human-Movement/dp/0470398183</td></tr>
+<tr><th align="left">The Biomechanist</th>
+<td align="left"><b>The week in Biomechanics</b><br>
+https://www.biomechanist.net/blog</td></tr>
+<tr><th align="left">Biomch-L</th>
+<td align="left"><b>Forum, sponsored by the International Society of Biomechanics (<a href="https://isbweb.org">ISB</a>)</b><br>
+https://biomch-l.isbweb.org</td></tr>
+<tr><th align="left">3-D Analysis of Human Movement</th>
+<td align="left"><b>Technical Group of the International Society of Biomechanics (<a href="https://isbweb.org">ISB</a>)</b><br>
+http://www.geocities.ws/3d-ahm</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->

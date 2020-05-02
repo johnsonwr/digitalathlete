@@ -4,7 +4,7 @@
   ---      digitalathlete/README.md, 22may2018
   ---
   --- 2. Original-Author, Email-Address
-  ---      Copyright (c) MMXIX
+  ---      Copyright (c) MMXX
   ---      William JOHNSON, bill@johnsonwr.com
   ---
   --- 3. Last-Updated-By, Email-Address
@@ -226,27 +226,27 @@ https://www.fast.ai</td></tr>
 <table>
 <tr><th align="left"><a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">The University of Western Australia</a></th>
 <td align="left"><b>Biomechanics courses</b><br>
-<a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH2250">UWA SSEH2250, Biomechanics in Sport and Exercise</a><br>
-<a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH3355">UWA SSEH3355, Biomechanical Principles</a><br>
-<a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH4633">UWA UWA SSEH4633, Advanced Biomechanical Methods</a><br>
+<a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH2250">SSEH2250 Biomechanics in Sport and Exercise</a><br>
+<a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH3355">SSEH3355 Biomechanical Principles</a><br>
+<a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH4633">SSEH4633 Advanced Biomechanical Methods</a><br>
 </td></tr>
 <tr><th align="left">Roger Bartlett</th>
 <td align="left"><b>Introduction to Sports Biomechanics</b><br>
 https://www.amazon.com/Introduction-Sports-Biomechanics-Analysing-Movement/dp/0415632439</td></tr>
-<tr><th align="left">Joseph Hamill, Kathleen Knutzen, Timothy Derrick</th>
-<td align="left"><b>Biomechanical basis of human movement</b><br>
+<tr><th align="left">Joseph Hamill<br>Kathleen Knutzen<br>Timothy Derrick</th>
+<td align="left"><b>Biomechanical Basis of Human Movement</b><br>
 https://www.amazon.com/Biomechanical-Basis-Movement-Joseph-Hamill/dp/1451177305</td></tr>
 <tr><th align="left">Jim Richards</th>
-<td align="left"><b>Biomechanics in clinic and research: An interactive teaching and learning course</b><br>
+<td align="left"><b>Biomechanics in Clinic and Research: An Interactive Teaching and Learning Course</b><br>
 https://www.amazon.com/Biomechanics-Clinic-Research-interactive-teaching/dp/0443101701</td></tr>
-<tr><th align="left">Carl Peyton, Adrian Burden</th>
-<td align="left"><b>Biomechanical evaluation of movement in sport and exercise</b><br>
+<tr><th align="left">Carl Peyton<br>Adrian Burden</th>
+<td align="left"><b>Biomechanical Evaluation of Movement in Sport and Exercise</b><br>
 https://www.amazon.com/Biomechanical-Evaluation-Movement-Exercise-Science/dp/0415632668</td></tr>
-<tr><th align="left">Youlian Hong, Roger Bartlett</th>
-<td align="left"><b>Routledge Handbook of biomechanics and human movement science</b><br>
+<tr><th align="left">Youlian Hong<br>Roger Bartlett</th>
+<td align="left"><b>Routledge Handbook of Biomechanics and Human Movement Science</b><br>
 https://www.amazon.com/Routledge-Handbook-Biomechanics-International-Handbooks-ebook/dp/B001PC1ZX8</td></tr>
 <tr><th align="left">David Winter</th>
-<td align="left"><b>Biomechanics and motor control of human movement</b><br>
+<td align="left"><b>Biomechanics and Motor Control of Human Movement</b><br>
 https://www.amazon.com/Biomechanics-Motor-Control-Human-Movement/dp/0470398183</td></tr>
 </table><br><br>
 

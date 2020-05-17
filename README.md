@@ -58,7 +58,8 @@
 <i>Deep learning models driven by wearable sensor accelerometers can replace captive laboratory instrumentation to facilitate biomechanical accuracy and validity anywhere</i><br><br>
 By employing a new deep learning workbench for spatio-temporal data, we train convolutional neural networks (CNN) with archive biomechanics data to predict accurate multidimensional on-field analytics for complex sports movements. 
 Using test sets from multi data-captures which include ground truth force plate or source modeling, we see strong correspondence between measured versus predicted ground reaction forces and moments, and knee joint moments. 
-Driven by eight markers, study two GRF/M mean r>0.97, study three KJM mean r>0.88, and from five wearable sensor accelerometers, study four GRF mean r>0.87.
+Driven by eight markers, study two GRF/M mean r>0.97, study three KJM mean r>0.88, and from five wearable sensor accelerometers, study four GRF mean r>0.87. 
+The overarching hypothesis, whether it is possible to build deep learning models which can mimic the physics behind human movement, specifically to replace force plate derived kinetic output, is supported.
 <br><br>
 William R. Johnson 
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
@@ -74,7 +75,9 @@ William R. Johnson
 
 <td><img src="_readme/grftrain_180613080625121c25.png"></td></tr>
 <tr><td colspan=2>
-Caution, model files are large, you may not wish to pull the complete repository. GitHub limits file sizes to 100MB, files larger than this have been broken up using <a href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html"><b>split</b></a>. Instructions to reconstitute files are given inline.<br>
+Caution, model files are large, you may not wish to pull the complete repository. 
+GitHub limits file sizes to 100MB, files larger than this have been broken up using <a href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html"><b>split</b></a>. 
+Instructions to reconstitute files are given inline.<br>
 </td></tr>
 </table><br><br>
 
@@ -249,7 +252,7 @@ https://www.amazon.com/Routledge-Handbook-Biomechanics-International-Handbooks-e
 <td align="left"><b>Biomechanics and Motor Control of Human Movement</b><br>
 https://www.amazon.com/Biomechanics-Motor-Control-Human-Movement/dp/0470398183</td></tr>
 <tr><th align="left">The Biomechanist</th>
-<td align="left"><b>The week in Biomechanics</b><br>
+<td align="left"><b>The Week in Biomechanics</b><br>
 https://www.biomechanist.net/blog</td></tr>
 <tr><th align="left">Biomch-L</th>
 <td align="left"><b>Forum, sponsored by the International Society of Biomechanics (<a href="https://isbweb.org">ISB</a>)</b><br>

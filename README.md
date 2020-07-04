@@ -64,7 +64,7 @@ The overarching hypothesis, whether it is possible to build deep learning models
 William R. Johnson 
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
 <a href="https://www.nsca.com/certification/cscs">CSCS</a>
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | May 2020<br>
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | July 2020<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -87,6 +87,7 @@ Instructions to reconstitute files are given inline.<br>
 <h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
+<tr><th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th><td align="left">https://ieeexplore.ieee.org/document/9130158</td></tr>
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1903.07221</td></tr>
 <tr><th align="left"><a href="https://isb2019.com">ISB2019</a> (<a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a>)</th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>

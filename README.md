@@ -64,7 +64,7 @@ The overarching hypothesis, whether it is possible to build deep learning models
 William R. Johnson 
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
 <a href="https://www.nsca.com/certification/cscs">CSCS</a>
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | July 2020<br>
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | September 2020<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -277,7 +277,7 @@ https://research-repository.uwa.edu.au/en/persons/jacqueline-alderson
 <tr><th align="left">Ajmal Mian</th>
 <td align="left">
 <b>Department of Computer Science and Software Engineering, The University of Western Australia, Perth, Australia</b><br>
-http://staffhome.ecm.uwa.edu.au/~00053650<br>
+https://research-repository.uwa.edu.au/en/persons/ajmal-mian<br>
 <b>Machine Intelligence Group</b><br>
 https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
 <tr><th align="left">David G. Lloyd</th>

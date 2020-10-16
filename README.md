@@ -64,7 +64,7 @@ The overarching hypothesis, whether it is possible to build deep learning models
 William R. Johnson 
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
 <a href="https://www.nsca.com/certification/cscs">CSCS</a>
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | September 2020<br>
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | October 2020<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -261,6 +261,9 @@ https://biomch-l.isbweb.org</td></tr>
 <tr><th align="left">3-D Analysis of Human Movement</th>
 <td align="left"><b>Technical Group of the International Society of Biomechanics (<a href="https://isbweb.org">ISB</a>)</b><br>
 http://www.geocities.ws/3d-ahm</td></tr>
+<tr><th align="left">Awesome Biomechanics</th>
+<td align="left"><b>A curated repository of biomechanical resources</b><br>
+https://github.com/modenaxe/awesome-biomechanics</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->

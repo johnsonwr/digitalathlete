@@ -64,7 +64,7 @@ The overarching hypothesis, whether it is possible to build deep learning models
 William R. Johnson 
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
 <a href="https://www.engineersaustralia.org.au/chartered">CPEng</a> 
-<a href="https://www.nsca.com/certification/cscs">CSCS</a>
+<a href="https://www.nsca.com/certification/cscs">CSCS</a> (he/him/his)
 <br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | April 2021<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>

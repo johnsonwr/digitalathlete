@@ -88,7 +88,7 @@ Instructions to reconstitute files are given inline.<br>
 <h3>Post-doc: A comparison of three neural network approaches for estimating joint angles and moments from inertial measurement units</h3>
 <table>
 <tr><th align="left"><a href="https://www.mdpi.com/journal/sensors/special_issues/Sensors_in_Sports_Biomechanics">Sensors</a></th>
-<td align="left">https://www.mdpi.com/1424-8220/21/13/4535/pdf.12</td></tr>
+<td align="left">https://www.mdpi.com/1424-8220/21/13/4535/pdf <tiny>12</tiny></td></tr>
 </td></tr>
 </table><br><br>
 

@@ -88,7 +88,7 @@ Instructions to reconstitute files are given inline.<br>
 <h3>Post-doc: A comparison of three neural network approaches for estimating joint angles and moments from inertial measurement units</h3>
 <table>
 <tr><th align="left"><a href="https://www.mdpi.com/journal/sensors/special_issues/Sensors_in_Sports_Biomechanics">Sensors</a></th>
-</th><td align="left">https://www.mdpi.com/1424-8220/21/13/4535/pdf `12`</td></tr>
+<td align="left">https://www.mdpi.com/1424-8220/21/13/4535/pdf.12</td></tr>
 </td></tr>
 </table><br><br>
 
@@ -98,7 +98,7 @@ Instructions to reconstitute files are given inline.<br>
 <h3>Doctoral thesis: Non-invasive estimation of ground and joint kinetics through deep learning</h3>
 <table>
 <tr><th align="left"><a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">The University<br>of Western Australia</a></th>
-</th><td align="left">https://research-repository.uwa.edu.au/en/publications/non-invasive-estimation-of-ground-and-joint-kinetics-through-deep</td></tr>
+<td align="left">https://research-repository.uwa.edu.au/en/publications/non-invasive-estimation-of-ground-and-joint-kinetics-through-deep</td></tr>
 </td></tr>
 </table><br><br>
 

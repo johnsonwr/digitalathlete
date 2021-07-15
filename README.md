@@ -223,7 +223,7 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <!--- 210714 Master's assignment --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<h3>Master's assignment: Talent identification in elite rugby union: A theoretical update to an existing predictor algorithm</h3>
+<h3>Master's assignment: Talent identification in elite rugby union - A theoretical update to an existing predictor algorithm</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Athlete selection &#183; Predictor variables &#183; Algorithm &#183; Weightings</td></tr>
 <tr><th align="left"><a href="https://www.strengthandconditioning.org">JASC</a></th>

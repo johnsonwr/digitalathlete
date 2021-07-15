@@ -65,7 +65,7 @@ William R. Johnson
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
 <a href="https://www.engineersaustralia.org.au/chartered">CPEng</a> 
 <a href="https://www.nsca.com/certification/cscs">CSCS</a> (he/him/his)
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | April 2021<br>
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | July 2021<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -79,6 +79,16 @@ William R. Johnson
 Caution, model files are large, you may not wish to pull the complete repository. 
 GitHub limits file sizes to 100MB, files larger than this have been broken up using <a href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html"><b>split</b></a>. 
 Instructions to reconstitute files are given inline.<br>
+</td></tr>
+</table><br><br>
+
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 210714 Post-doc --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<h3>Post-doc: A comparison of three neural network approaches for estimating joint angles and moments from inertial measurement units</h3>
+<table>
+<tr><th align="left"><a href="https://www.mdpi.com/journal/sensors/special_issues/Sensors_in_Sports_Biomechanics">Sensors</a></th>
+</th><td align="left">https://www.mdpi.com/1424-8220/21/13/4535/pdf (12)</td></tr>
 </td></tr>
 </table><br><br>
 

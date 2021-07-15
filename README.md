@@ -111,7 +111,7 @@ Instructions to reconstitute files are given inline.<br>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
 <tr><th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th><td align="left">https://ieeexplore.ieee.org/document/9130158 11a</td></tr>
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1903.07221 11b</td></tr>
-<tr><th align="left"><a href="https://isb2019.com">ISB2019</a> (<a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a>)</th><td align="left">
+<tr><th align="left"><a href="https://isb2019.com">ISB2019</a><br><a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a></th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
 Abstract http://bit.ly/2M9j3rw 10<br>
 Presentation http://bit.ly/2SHcsYv<br>
@@ -143,7 +143,7 @@ cat grftrain_181123170749181_mcrnet.caffemodel_* > grftrain_181123170749181_mcrn
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
 <tr><th align="left"><a href="https://www.sciencedirect.com/journal/journal-of-biomechanics">Journal of Biomechanics</a></th><td align="left">https://www.sciencedirect.com/science/article/abs/pii/S0021929019304427 8a</td></tr>
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1809.08016 8b</td></tr>
-<tr><th align="left"><a href="https://isb2019.com">ISB2019</a> (<a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a>)</th><td align="left">
+<tr><th align="left"><a href="https://isb2019.com">ISB2019</a><br><a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a></th><td align="left">
 <b>Predicting ground and joint kinetics from wearable sensor accelerations via deep learning</b><br>
 Abstract http://bit.ly/2y7mZ3A 9<br>
 Presentation (panel) http://bit.ly/2rIh2uo<br>
@@ -186,7 +186,7 @@ cat grftrain_190215204017060_mcrnet.caffemodel_j01_* > grftrain_190215204017060_
 </td></tr>
 <tr><th align="left">Caffe prototxt</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
 <tr><th align="left">CaffeNet reference</th><td align="left" colspan=2>https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
-<tr><th align="left"><a href="http://www.isbs2017.com">ISBS2017</a> (<a href="https://isbs.org">ISBS</a>)</th><td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
+<tr><th align="left"><a href="http://www.isbs2017.com">ISBS2017</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
 Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs 3<br>
 Presentation http://bit.ly/2MvqW8c</td></tr>
 </table><br><br>
@@ -208,6 +208,27 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
   
 </td></tr>
 <tr><th align="left">R SPLS reference</th><td align="left">https://cran.r-project.org/web/packages/spls/index.html</td></tr>
+</table><br><br>
+
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 210714 HDR prelim --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<h3>HDR prelim: Validity of a markerless motion capture system for sporting application </h3>
+<table>
+<tr><th align="left"><a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">The University<br>of Western Australia</a></th>
+<td align="left">https://bit.ly/3qLDIUB</td></tr>
+</td></tr>
+</table><br><br>
+
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 210714 Master's assignment --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<h3>Master's assignment: Talent identification in elite rugby union: A theoretical update to an existing predictor algorithm</h3>
+<table>
+<tr><th align="left">Keywords</th><td align="left">Athlete selection &#183; Predictor variables &#183; Algorithm &#183; Weightings</td></tr>
+<tr><th align="left"><a href="https://www.strengthandconditioning.org">JASC</a></th>
+<td align="left">https://www.strengthandconditioning.org/jasc-25-3 1</td></tr>
+</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->

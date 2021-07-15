@@ -123,6 +123,8 @@ Poster (Conference Award) http://bit.ly/2yXgdgO<br>
 Abstract (Student Bursary Award) http://bit.ly/2GzYnHD 6<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
+<tr><th align="left"><a href="https://commons.nmu.edu/isbs/vol36/iss1/1">ISBS2018</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>Artificial intelligence, data analytics and sports biomechanics: A new era or a false dawn?</b><br>
+Abstract https://commons.nmu.edu/cgi/viewcontent.cgi?article=1618&context=isbs 7</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study4/figures</td></tr>
 <tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study4/models (637MB)
 
@@ -176,6 +178,9 @@ Cover & Feature https://tbme.embs.org/2019/03/01/predicting-athlete-ground-react
 <td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td></tr>
 <tr><th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2017</th>
 <td align="left" colspan=2><b>Relative performance of Caffe deep learning models for spatio-temporal sport analytics</b><br>Presentation http://bit.ly/2TCWqwM</td></tr>
+<tr><th align="left"><a href="http://www.isbs2017.com">ISBS2017</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
+Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs 3<br>
+Presentation http://bit.ly/2MvqW8c</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
 <tr><th align="left">Caffe models</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br><br>
 
@@ -186,9 +191,6 @@ cat grftrain_190215204017060_mcrnet.caffemodel_j01_* > grftrain_190215204017060_
 </td></tr>
 <tr><th align="left">Caffe prototxt</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/prototxt</td></tr>
 <tr><th align="left">CaffeNet reference</th><td align="left" colspan=2>https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet</td></tr>
-<tr><th align="left"><a href="http://www.isbs2017.com">ISBS2017</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
-Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs 3<br>
-Presentation http://bit.ly/2MvqW8c</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
@@ -199,6 +201,8 @@ Presentation http://bit.ly/2MvqW8c</td></tr>
 <tr><th align="left">Keywords</th><td align="left">Action recognition &#183; Wearable sensors &#183; Computer simulation</td></tr>
 <tr><th align="left"><a href="http://link.springer.com/journal/11517">MBEC</a></th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7 4</td></tr>
 <tr><th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2016</th><td align="left">Presentation with commentary http://bit.ly/2kcgXrw</td></tr>
+<tr><th align="left"><a href="https://ojs.ub.uni-konstanz.de/cpa/issue/view/34%20International%20Conference%20of%20Biomehcanics%20in%20Sport%20%282016%29">ISBS2016</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>The personalised 'Digital Athlete': An evolving vision for the capture, modelling and simulation, of on-field athletic performance</b><br>
+Abstract https://ojs.ub.uni-konstanz.de/cpa/article/download/7099/6390 2</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 <tr><th align="left">R models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (1.9GB)<br><br>
   

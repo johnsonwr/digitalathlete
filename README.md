@@ -171,7 +171,7 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 <tr><th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th>
 <td align="left">
 Paper https://ieeexplore.ieee.org/document/8408711 5<br>
-Feature https://tbme.embs.org/2019/03/01/predicting-athlete-ground-reaction-forces-and-moments-from-spatio-temporal-driven-cnn-models</td></tr>
+Cover & Feature https://tbme.embs.org/2019/03/01/predicting-athlete-ground-reaction-forces-and-moments-from-spatio-temporal-driven-cnn-models</td></tr>
 <tr><th align="left">Animation</th>
 <td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td></tr>
 <tr><th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2017</th>
@@ -223,7 +223,7 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <!--- 210714 Master's assignment --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<h3>Master's assignment: Talent identification in elite rugby union - A theoretical update to an existing predictor algorithm</h3>
+<h3>Master's assignment: Talent identification in elite rugby union - a theoretical update to an existing predictor algorithm</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Athlete selection &#183; Predictor variables &#183; Algorithm &#183; Weightings</td></tr>
 <tr><th align="left"><a href="https://www.strengthandconditioning.org">JASC</a></th>

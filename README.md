@@ -53,8 +53,7 @@
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h2>Non-invasive estimation of ground and joint kinetics through deep learning<br>http://digitalathlete.org</h2>
 <table cellpadding=0 cellspacing=0>
-<tr>
-<td>
+<tr><td>
 <i>Deep learning models driven by wearable sensor accelerometers can replace captive laboratory instrumentation to facilitate biomechanical accuracy and validity anywhere</i><br><br>
 By employing a new deep learning workbench for spatio-temporal data, we train convolutional neural networks (CNN) with archive biomechanics data to predict accurate multidimensional on-field analytics for complex sports movements. 
 Using test sets from multi data-captures which include ground truth force plate or source modeling, we see strong correspondence between measured versus predicted ground reaction forces and moments, and knee joint moments. 
@@ -72,22 +71,15 @@ William R. Johnson
 <a href="https://scholar.google.com.au/citations?user=DwbHHFkAAAAJ&hl=en" title="Google Scholar"><img src="_readme/543883659e_blue_sq_trim_383px.png" width="32" height="32"></a>
 <a href="http://www2.c-motion.com/products/visual3d" title="C-Motion"><img src="_readme/c-motion_background_white.png" width="120"></a>
 <a href="https://developer.nvidia.com/academic_gpu_seeding" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" width="140"></a>
-</td>
-</tr>
-
-<tr>
-<td>
+</td></tr>
+<tr><td>
 <img src="_readme/190127a_c3dmine_18111121240023_fig1_5mkr_fig2_cutR_dark_720p30w.gif">
-</td>
-</tr>
-
-<tr>
-<td>
+</td></tr>
+<tr><td>
 Caution, model files are large, you may not wish to pull the complete repository. 
 GitHub limits file sizes to 100MB, files larger than this have been broken up using <a href="http://manpages.ubuntu.com/manpages/trusty/man1/split.1.html"><b>split</b></a>. 
 Instructions to reconstitute files are given inline.<br>
-</td>
-</tr>
+</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->

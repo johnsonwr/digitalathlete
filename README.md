@@ -111,16 +111,11 @@ Instructions to reconstitute files are given inline.<br>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
 <tr><th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th><td align="left">https://ieeexplore.ieee.org/document/9130158 11a</td></tr>
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1903.07221 11b</td></tr>
-
 <tr><th align="left">Deep learning workbench for biomechanics</th>
 <td>
 Each study utilized an incremental sequence of data preparation and modeling strategies, which by study four had evolved into the "deep learning workbench for biomechanics."
 Although the individual data science components had previously existed in the literature, the approach was novel and unique in this configuration and application to sports biomechanics.
-<br>
-<img src="_readme/fig01_workbench_v3.jpg">
-</td>
-</tr>
-
+<br><br><img src="_readme/fig01_workbench_v3.jpg"></td></tr>
 <tr><th align="left"><a href="https://isb2019.com">ISB2019</a><br><a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a></th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
 Abstract http://bit.ly/2M9j3rw 10<br>

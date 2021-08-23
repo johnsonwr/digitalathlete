@@ -89,7 +89,7 @@ Instructions to reconstitute files are given inline.<br>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Machine learning &#183; Wearable sensors &#183; Joint kinematics &#183; Joint kinetics</td></tr>
 <tr><th align="left"><a href="https://www.mdpi.com/journal/sensors/special_issues/Sensors_in_Sports_Biomechanics">Sensors</a></th>
-<td align="left">https://www.mdpi.com/1424-8220/21/13/4535/pdf 12</td></tr>
+<td align="left">https://www.mdpi.com/1424-8220/21/13/4535/pdf [12]</td></tr>
 </td></tr>
 </table><br><br>
 
@@ -109,8 +109,8 @@ Instructions to reconstitute files are given inline.<br>
 <h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Simulated accelerations &#183; Workload exposure &#183; Sports analytics &#183; Deep learning</td></tr>
-<tr><th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th><td align="left">https://ieeexplore.ieee.org/document/9130158 11a</td></tr>
-<tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1903.07221 11b</td></tr>
+<tr><th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th><td align="left">https://ieeexplore.ieee.org/document/9130158 [11a]</td></tr>
+<tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1903.07221 [11b]</td></tr>
 <tr><th align="left">Deep learning workbench for biomechanics</th>
 <td>
 Each study utilized an incremental sequence of data preparation and modeling strategies, which by study four had evolved into the "deep learning workbench for biomechanics."
@@ -118,18 +118,18 @@ Although the individual data science components had previously existed in the li
 <br><br><img src="_readme/fig01_workbench_v3.jpg"></td></tr>
 <tr><th align="left"><a href="https://isb2019.com">ISB2019</a><br><a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a></th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
-Abstract http://bit.ly/2M9j3rw 10<br>
+Abstract http://bit.ly/2M9j3rw [10]<br>
 Presentation http://bit.ly/2SHcsYv<br>
 </td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
 Poster (Conference Award) http://bit.ly/2yXgdgO<br>
 </td></tr>
 <tr><th align="left"><a href="http://wcb2018.com">WCB2018</a></th><td align="left">
-Abstract (Student Bursary Award) http://bit.ly/2GzYnHD 6<br>
+Abstract (Student Bursary Award) http://bit.ly/2GzYnHD [6]<br>
 Presentation with commentary http://bit.ly/2tCKHTo<br>
 </td></tr>
 <tr><th align="left"><a href="https://commons.nmu.edu/isbs/vol36/iss1/1">ISBS2018</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>Artificial intelligence, data analytics and sports biomechanics: A new era or a false dawn?</b><br>
-Abstract https://commons.nmu.edu/cgi/viewcontent.cgi?article=1618&context=isbs 7</td></tr>
+Abstract https://commons.nmu.edu/cgi/viewcontent.cgi?article=1618&context=isbs [7]</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study4/figures</td></tr>
 <tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study4/models (637MB)
 
@@ -148,11 +148,11 @@ cat grftrain_181123170749181_mcrnet.caffemodel_* > grftrain_181123170749181_mcrn
 <h3>Study three: On-field player workload exposure and knee injury risk monitoring via deep learning</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Wearable sensors &#183; Computer vision &#183; Motion capture &#183; Sports analytics</td></tr>
-<tr><th align="left"><a href="https://www.sciencedirect.com/journal/journal-of-biomechanics">Journal of Biomechanics</a></th><td align="left">https://www.sciencedirect.com/science/article/abs/pii/S0021929019304427 8a</td></tr>
-<tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1809.08016 8b</td></tr>
+<tr><th align="left"><a href="https://www.sciencedirect.com/journal/journal-of-biomechanics">Journal of Biomechanics</a></th><td align="left">https://www.sciencedirect.com/science/article/abs/pii/S0021929019304427 [8a]</td></tr>
+<tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1809.08016 [8b]</td></tr>
 <tr><th align="left"><a href="https://isb2019.com">ISB2019</a><br><a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a></th><td align="left">
 <b>Predicting ground and joint kinetics from wearable sensor accelerations via deep learning</b><br>
-Abstract http://bit.ly/2y7mZ3A 9<br>
+Abstract http://bit.ly/2y7mZ3A [9]<br>
 Presentation (panel) http://bit.ly/2rIh2uo<br>
 </td></tr>
 <tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
@@ -177,14 +177,14 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 <tr><th align="left">Keywords</th><td width=450 align="left">Biomechanics &#183; Supervised learning &#183; Image motion analysis &#183; Computer simulation &#183; Pattern analysis</td><td rowspan=3><a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8643653" title="Cover"><img src="_readme/cover_tbme_08643665_300px.png"></a></td></tr>
 <tr><th align="left"><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10">IEEE TBME</a></th>
 <td align="left">
-Paper https://ieeexplore.ieee.org/document/8408711 5<br>
+Paper https://ieeexplore.ieee.org/document/8408711 [5]<br>
 Cover & Feature https://tbme.embs.org/2019/03/01/predicting-athlete-ground-reaction-forces-and-moments-from-spatio-temporal-driven-cnn-models</td></tr>
 <tr><th align="left">Animation</th>
 <td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td></tr>
 <tr><th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2017</th>
 <td align="left" colspan=2><b>Relative performance of Caffe deep learning models for spatio-temporal sport analytics</b><br>Presentation http://bit.ly/2TCWqwM</td></tr>
 <tr><th align="left"><a href="http://www.isbs2017.com">ISBS2017</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
-Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs 3<br>
+Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs [3]<br>
 Presentation http://bit.ly/2MvqW8c</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
 <tr><th align="left">Caffe models</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br><br>
@@ -204,10 +204,10 @@ cat grftrain_190215204017060_mcrnet.caffemodel_j01_* > grftrain_190215204017060_
 <h3>Study one: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Action recognition &#183; Wearable sensors &#183; Computer simulation</td></tr>
-<tr><th align="left"><a href="http://link.springer.com/journal/11517">MBEC</a></th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7 4</td></tr>
+<tr><th align="left"><a href="http://link.springer.com/journal/11517">MBEC</a></th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7 [4]</td></tr>
 <tr><th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2016</th><td align="left">Presentation with commentary http://bit.ly/2kcgXrw</td></tr>
 <tr><th align="left"><a href="https://ojs.ub.uni-konstanz.de/cpa/issue/view/34%20International%20Conference%20of%20Biomehcanics%20in%20Sport%20%282016%29">ISBS2016</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>The personalised 'Digital Athlete': An evolving vision for the capture, modelling and simulation, of on-field athletic performance</b><br>
-Abstract https://ojs.ub.uni-konstanz.de/cpa/article/download/7099/6390 2</td></tr>
+Abstract https://ojs.ub.uni-konstanz.de/cpa/article/download/7099/6390 [2]</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 <tr><th align="left">R models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (1.9GB)<br><br>
   
@@ -236,7 +236,7 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <table>
 <tr><th align="left">Keywords</th><td align="left">Athlete selection &#183; Predictor variables &#183; Algorithm &#183; Weightings</td></tr>
 <tr><th align="left"><a href="https://www.strengthandconditioning.org">JASC</a></th>
-<td align="left">https://www.strengthandconditioning.org/jasc-25-3 1</td></tr>
+<td align="left">https://www.strengthandconditioning.org/jasc-25-3 [1]</td></tr>
 </td></tr>
 </table><br><br>
 

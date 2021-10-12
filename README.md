@@ -98,6 +98,7 @@ Instructions to reconstitute files are given inline.<br>
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Doctoral thesis: Non-invasive estimation of ground and joint kinetics through deep learning</h3>
 <table>
+<tr><th align="left">Keywords</th><td align="left">Biomechanics &#183; Data science &#183; Deep learning &#183; Big data &#183; Sports analytics &#183; Computer vision &#183; Motion capture &#183; Wearable sensors</td></tr>
 <tr><th align="left"><a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">The University<br>of Western Australia</a></th>
 <td align="left">https://research-repository.uwa.edu.au/en/publications/non-invasive-estimation-of-ground-and-joint-kinetics-through-deep</td></tr>
 </td></tr>

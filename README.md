@@ -64,7 +64,7 @@ William R Johnson
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
 <a href="https://www.engineersaustralia.org.au/chartered">CPEng</a> 
 <a href="https://www.nsca.com/certification/cscs">CSCS</a> (he/him/his)
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | July 2022<br>
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | August 2023<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -261,6 +261,7 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 <table>
 <tr><th align="left"><a href="https://www.andrewng.org">Andrew Ng</a></th>
 <td align="left"><b>Machine Learning course</b><br>
+https://www.deeplearning.ai/the-batch<br>
 https://www.coursera.org/learn/machine-learning<br>
 https://www.coursera.org/learn/ai-for-everyone<br>
 http://cs229.stanford.edu<br>
@@ -300,6 +301,9 @@ https://www.fast.ai</td></tr>
 <a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH3355">SSEH3355 Biomechanical Principles</a><br>
 <a href="https://handbooks.uwa.edu.au/unitdetails?code=SSEH4633">SSEH4633 Advanced Biomechanical Methods</a><br>
 </td></tr>
+<tr><th align="left"><a href="https://www.clearinghouseforsport.gov.au">Clearinghouse<br>for Sport</a></th>
+<td align="left"><b>National 3D Motion Capture Best Practice Resources</b><br>
+https://www.clearinghouseforsport.gov.au/networks/3d-motion-capture</td></tr>
 <tr><th align="left">David Winter</th>
 <td align="left"><b>Biomechanics and Motor Control of Human Movement</b><br>
 https://www.amazon.com/Biomechanics-Motor-Control-Human-Movement/dp/0470398183</td></tr>

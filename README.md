@@ -64,7 +64,7 @@ William R Johnson
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
 <a href="https://www.engineersaustralia.org.au/chartered">CPEng</a> 
 <a href="https://www.nsca.com/certification/cscs">CSCS</a> (he/him/his)
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | August 2023<br>
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | September 2023<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -88,12 +88,12 @@ Instructions to reconstitute files are given inline.<br>
 <h3>Post-doc: Conference presentations, panels, & session chairs</h3>
 <table>
 <tr><th align="left"><a href="https://commons.nmu.edu/isbs/vol40/iss1">ISBS-2022</a><br><a href="https://isbs.org">ISBS</a></th>
-<td align="left" colspan=2><b>Neural Networks Session Chair</b> http://www.isbs2022.org/programme.html</td></tr>
+<td align="left" colspan=2><b>Neural Networks Session Chair</b></td></tr>
 <tr><th align="left"><a href="https://www.nsca.com/events/clinics/baseball-clinic">NSCA/PBSCCS-2021</a><br><a href="https://www.nsca.com">NSCA</a></th>
 <td align="left" colspan=2><b>NSCA Baseball and Sport Science SIG Performance Technology Roundtable</b><br>
 Video https://vimeo.com/627746779/74b81ecfd5</td></tr>
 <tr><th align="left"><a href="https://commons.nmu.edu/isbs/vol39/iss1">ISBS-2021</a><br><a href="https://isbs.org">ISBS</a></th>
-<td align="left" colspan=2><b>Data Science and Sports Biomechanics Panel</b> http://www.isbs2021.org/workshops-and-panels<br>
+<td align="left" colspan=2><b>Data Science and Sports Biomechanics Panel</b><br>
 Video https://youtu.be/A_PeEtMN92k</td></tr>
 </table><br><br>
 

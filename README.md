@@ -62,9 +62,9 @@ The overarching hypothesis, whether it is possible to build deep learning models
 <br><br>
 William R Johnson 
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
-<a href="https://www.engineersaustralia.org.au/chartered">CPEng</a> 
-<a href="https://www.nsca.com/certification/cscs">CSCS</a> (he/him/his)
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | September 2023<br>
+<a href="https://www.nsca.com/certification/cpss">CPSS, \*D</a>
+<a href="https://www.nsca.com/certification/cscs">CSCS, \*D</a> (he/him/his)
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | August 2025<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -83,7 +83,17 @@ Instructions to reconstitute files are given inline.<br>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 220731 Post-doc --->
+<!--- 250803 Post-doc --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<h3>Post-doc: A comparison of three neural network approaches for estimating joint angles and moments from inertial measurement units</h3>
+<table>
+<tr><th align="left">Keywords</th><td align="left">Machine learning &#183; Wearable sensors &#183; Joint kinematics &#183; Joint kinetics</td></tr>
+<tr><th align="left"><a href="https://www.mdpi.com/journal/sensors/special_issues/Sensors_in_Sports_Biomechanics">Sensors</a></th>
+<td align="left">https://www.mdpi.com/1424-8220/21/13/4535/pdf [12]</td></tr>
+</table><br><br>
+
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 250803 Post-doc --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Post-doc: Conference presentations, panels, & session chairs</h3>
 <table>
@@ -98,7 +108,7 @@ Video https://youtu.be/A_PeEtMN92k</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 210714 Post-doc --->
+<!--- 250803 Post-doc --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Post-doc: A comparison of three neural network approaches for estimating joint angles and moments from inertial measurement units</h3>
 <table>
@@ -108,7 +118,7 @@ Video https://youtu.be/A_PeEtMN92k</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 201124 Doctoral thesis --->
+<!--- 250803 Doctoral thesis --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Doctoral thesis: Non-invasive estimation of ground and joint kinetics through deep learning</h3>
 <table>
@@ -118,7 +128,7 @@ Video https://youtu.be/A_PeEtMN92k</td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 190319 Study four --->
+<!--- 250803 Study four --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study four: Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning</h3>
 <table>
@@ -132,15 +142,15 @@ Although the individual data science components had previously existed in the li
 <br><br><img src="_readme/fig01_workbench_v3.jpg"></td></tr>
 <tr><th align="left"><a href="https://isb2019.com">ISB-2019</a><br><a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a></th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
-Abstract http://bit.ly/2M9j3rw [10]<br>
-Presentation http://bit.ly/2SHcsYv<br>
+Abstract https://drive.google.com/file/d/1ISiQBZJUEie1JPniA4M5VoHW-DKEktg2 [10]<br>
+Presentation https://drive.google.com/file/d/1Iro6yXgx69i2qgNfl_SfblXzlHxmD5_M<br>
 </td></tr>
 <tr><th align="left"><a href="https://www.eventbrite.com.au/e/engineering-and-mathematical-sciences-hdr-conference-2018-tickets-51052347947">EMS HDR Conference 2018</a></th><td align="left">
-Poster (Conference Award) http://bit.ly/2yXgdgO<br>
+Poster (Conference Award) https://drive.google.com/file/d/1Iy8DY4LYWnEcv8MMyIbvn-eMWsL2z4Iw<br>
 </td></tr>
 <tr><th align="left"><a href="http://wcb2018.com">WCB-2018</a></th><td align="left">
-Abstract (Student Bursary Award) http://bit.ly/2GzYnHD [6]<br>
-Presentation with commentary http://bit.ly/2tCKHTo<br>
+Abstract (Student Bursary Award) https://drive.google.com/file/d/1IVGwB_gFjn0eFGlWOwxA_dW4aD_hr2VE [6]<br>
+Presentation with commentary https://youtu.be/GZMCXbgbRfE<br>
 </td></tr>
 <tr><th align="left"><a href="https://commons.nmu.edu/isbs/vol36/iss1/1">ISBS-2018</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>Artificial intelligence, data analytics and sports biomechanics: A new era or a false dawn?</b><br>
 Abstract https://commons.nmu.edu/cgi/viewcontent.cgi?article=1618&context=isbs [7]</td></tr>
@@ -157,7 +167,7 @@ cat grftrain_181123170749181_mcrnet.caffemodel_* > grftrain_181123170749181_mcrn
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 190711 Study three --->
+<!--- 250803 Study three --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study three: On-field player workload exposure and knee injury risk monitoring via deep learning</h3>
 <table>
@@ -166,11 +176,12 @@ cat grftrain_181123170749181_mcrnet.caffemodel_* > grftrain_181123170749181_mcrn
 <tr><th align="left"><a href="https://arxiv.org">arXiv</a></th><td align="left">https://arxiv.org/abs/1809.08016 [8b]</td></tr>
 <tr><th align="left"><a href="https://isb2019.com">ISB-2019</a><br><a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a></th><td align="left">
 <b>Predicting ground and joint kinetics from wearable sensor accelerations via deep learning</b><br>
-Abstract http://bit.ly/2y7mZ3A [9]<br>
-Presentation (panel) http://bit.ly/2rIh2uo<br>
+Abstract (panel) https://drive.google.com/file/d/1IaYZr3y4zUS97Eb-58Wfi8M0VXKgCl8y [9]<br>
+Presentation (panel) https://drive.google.com/file/d/1Ifh5Uyi_B3_bN_O5BUFnHGeeScEyIbVs/view<br>
 </td></tr>
-<tr><th align="left">Presentation</th><td align="left">http://bit.ly/2HS7HCv</td></tr>
-<tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization<br>(supplementary figure) http://bit.ly/2yTaX1f</td></tr>
+<tr><th align="left">Presentation</th><td align="left">https://prezi.com/view/BIcOi3wlsxzywou2immu<br>
+https://drive.google.com/file/d/1Iro6yXgx69i2qgNfl_SfblXzlHxmD5_M</td></tr>
+<tr><th align="left">Animation</th><td align="left">Training set marker trajectories versus corresponding knee joint moments visualization<br>(supplementary figure) https://youtu.be/BIMvJERDyWE</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/figures</td></tr>
 <tr><th align="left">Caffe models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study3/models (2.6GB)<br><br>
 
@@ -184,7 +195,7 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 190303 Study two --->
+<!--- 250803 Study two --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study two: Predicting athlete ground reaction forces and moments from spatio-temporal driven CNN models</h3>
 <table cellpadding=0 cellspacing=0>
@@ -194,12 +205,12 @@ cat grftrain_190215144249130_mcrnet.caffemodel_j01_* > grftrain_190215144249130_
 Paper https://ieeexplore.ieee.org/document/8408711 [5]<br>
 Cover & Feature https://tbme.embs.org/2019/03/01/predicting-athlete-ground-reaction-forces-and-moments-from-spatio-temporal-driven-cnn-models</td></tr>
 <tr><th align="left">Animation</th>
-<td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) http://bit.ly/2Is3PJx</td></tr>
+<td align="left">Training set marker trajectories versus corresponding ground reaction forces and moments visualization<br>(supplementary figure) https://youtu.be/BewL5PaDL0A</td></tr>
 <tr><th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2017</th>
-<td align="left" colspan=2><b>Relative performance of Caffe deep learning models for spatio-temporal sport analytics</b><br>Presentation http://bit.ly/2TCWqwM</td></tr>
+<td align="left" colspan=2><b>Relative performance of Caffe deep learning models for spatio-temporal sport analytics</b><br>Presentation https://prezi.com/view/numf1Oj8x0YXVbm6QJFf</td></tr>
 <tr><th align="left"><a href="http://www.isbs2017.com">ISBS-2017</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>Prediction of ground reaction forces and moments via supervised learning is independent of participant sex, height and mass</b><br>
 Abstract (Student Travel Grant) https://commons.nmu.edu/cgi/viewcontent.cgi?&article=1034&context=isbs [3]<br>
-Presentation http://bit.ly/2MvqW8c</td></tr>
+Presentation https://prezi.com/view/ckAwqlhouVyrXzuDKIql</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/figures</td></tr>
 <tr><th align="left">Caffe models</th><td align="left" colspan=2>https://github.com/johnsonwr/digitalathlete/tree/master/study2/models (1.3GB)<br><br>
 
@@ -213,14 +224,14 @@ cat grftrain_190215204017060_mcrnet.caffemodel_j01_* > grftrain_190215204017060_
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 190303 Study one --->
+<!--- 250803 Study one --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Study one: Predicting athlete ground reaction forces and moments from motion capture</h3>
 <table>
 <tr><th align="left">Keywords</th><td align="left">Action recognition &#183; Wearable sensors &#183; Computer simulation</td></tr>
 <tr><th align="left"><a href="http://link.springer.com/journal/11517">MBEC</a></th><td align="left">https://link.springer.com/article/10.1007/s11517-018-1802-7 [4]</td></tr>
-<tr><th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2016</th><td align="left">Presentation with commentary http://bit.ly/2kcgXrw</td></tr>
-<tr><th align="left"><a href="https://ojs.ub.uni-konstanz.de/cpa/issue/view/34%20International%20Conference%20of%20Biomehcanics%20in%20Sport%20%282016%29">ISBS-2016</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>The personalised 'Digital Athlete': An evolving vision for the capture, modelling and simulation, of on-field athletic performance</b><br>
+<tr><th align="left"><a href="https://www.uwa.edu.au/ems/schools/physics-mathematics-and-computing/department-of-computer-science-and-software-engineering">UWA CSSE</a> Conference 2016</th><td align="left">Presentation with commentary https://youtu.be/5OI9lXGJa54</td></tr>
+<tr><th align="left"><a href="https://ojs.ub.uni-konstanz.de/cpa/issue/view/34%20International%20Conference%20of%20Biomechhcanics%20in%20Sport%20%282016%29">ISBS-2016</a><br><a href="https://isbs.org">ISBS</a></th><td align="left" colspan=2><b>The personalised 'Digital Athlete': An evolving vision for the capture, modelling and simulation, of on-field athletic performance</b><br>
 Abstract https://ojs.ub.uni-konstanz.de/cpa/article/download/7099/6390 [2]</td></tr>
 <tr><th align="left">MATLAB figures</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/figures</td></tr>
 <tr><th align="left">R models</th><td align="left">https://github.com/johnsonwr/digitalathlete/tree/master/study1/models (1.9GB)<br><br>
@@ -234,17 +245,17 @@ cat grftrain_171214215406095_R_predict_model_* > grftrain_171214215406095_R_pred
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 210714 HDR prelim --->
+<!--- 250803 HDR prelim --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>HDR prelim: Validity of a markerless motion capture system for sporting application </h3>
 <table>
 <tr><th align="left"><a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">The University<br>of Western Australia</a></th>
-<td align="left">https://bit.ly/3qLDIUB</td></tr>
+<td align="left">https://drive.google.com/file/d/1Iag_Uzaf4o6VoqiWgvoNZmYJw82vnLZk</td></tr>
 </td></tr>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 210714 Master's assignment --->
+<!--- 250803 Master's assignment --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Master's assignment: Talent identification in elite rugby union - a theoretical update to an existing predictor algorithm</h3>
 <table>

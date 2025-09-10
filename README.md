@@ -62,9 +62,9 @@ The overarching hypothesis, whether it is possible to build deep learning models
 <br><br>
 William R Johnson 
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
-<a href="https://www.nsca.com/certification/cpss">CPSS, \*D</a>
-<a href="https://www.nsca.com/certification/cscs">CSCS, \*D</a> (he/him/his)
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | August 2025<br>
+<a href="https://www.nsca.com/certification/cpss">CPSS,*D</a>
+<a href="https://www.nsca.com/certification/cscs">CSCS,*D</a> (he/him/his)
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | September 2025<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -83,29 +83,58 @@ Instructions to reconstitute files are given inline.<br>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 250803 Post-doc --->
+<!--- 250910 Post-doc --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<h3>Post-doc: A comparison of three neural network approaches for estimating joint angles and moments from inertial measurement units</h3>
+<h3>Post-doc: Presentations, posters, panels, & session chairs</h3>
 <table>
-<tr><th align="left">Keywords</th><td align="left">Machine learning &#183; Wearable sensors &#183; Joint kinematics &#183; Joint kinetics</td></tr>
-<tr><th align="left"><a href="https://www.mdpi.com/journal/sensors/special_issues/Sensors_in_Sports_Biomechanics">Sensors</a></th>
-<td align="left">https://www.mdpi.com/1424-8220/21/13/4535/pdf [12]</td></tr>
-</table><br><br>
-
-<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 250803 Post-doc --->
-<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<h3>Post-doc: Conference presentations, panels, & session chairs</h3>
-<table>
-<tr><th align="left"><a href="https://commons.nmu.edu/isbs/vol40/iss1">ISBS-2022</a><br><a href="https://isbs.org">ISBS</a></th>
-<td align="left" colspan=2><b>Neural Networks Session Chair</b></td></tr>
-<tr><th align="left"><a href="https://www.nsca.com/events/clinics/baseball-clinic">NSCA/PBSCCS-2021</a><br><a href="https://www.nsca.com">NSCA</a></th>
-<td align="left" colspan=2><b>NSCA Baseball and Sport Science SIG Performance Technology Roundtable</b><br>
-Video https://vimeo.com/627746779/74b81ecfd5</td></tr>
-<tr><th align="left"><a href="https://commons.nmu.edu/isbs/vol39/iss1">ISBS-2021</a><br><a href="https://isbs.org">ISBS</a></th>
-<td align="left" colspan=2><b>Data Science and Sports Biomechanics Panel</b><br>
-Video https://youtu.be/A_PeEtMN92k</td></tr>
-</table><br><br>
+  <tr>
+    <th align="left">
+      <a href="https://www.nsca.com/events/conferences/nscacon">NSCA-2025</a>
+    </th>
+    <td align="left" colspan="2">
+      <b>Counter Movement Jump Positional Analysis in Collegiate Baseball Players</b><br>
+      https://www.mdpi.com/1424-8220/21/13/4535/pdf [13]
+    </td>
+  </tr>
+  <tr>
+    <th align="left">
+      <a href="https://www.has-motion.ca">HAS-Motion<br>Kingston, Ontario</a>
+    </th>
+    <td align="left" colspan="2">
+      <b>Biomechanics in Professional Baseball—Language & Motivations</b><br>
+      https://www.linkedin.com/posts/richard-moulton_really-enjoyed-dr-william-r-johnsons-talk-activity-7265772553942495232-_MCo
+    </td>
+  </tr>
+  <tr>
+    <th align="left">
+      <a href="https://commons.nmu.edu/isbs/vol40/iss1">ISBS-2022</a><br>
+      <a href="https://isbs.org">ISBS</a>
+    </th>
+    <td align="left" colspan="2">
+      <b>Neural Networks Session Chair</b>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">
+      <a href="https://www.nsca.com/events/clinics/baseball-clinic">NSCA/PBSCCS-2021</a><br>
+      <a href="https://www.nsca.com">NSCA</a>
+    </th>
+    <td align="left" colspan="2">
+      <b>NSCA Baseball and Sport Science SIG Performance Technology Roundtable</b><br>
+      Video https://vimeo.com/627746779/74b81ecfd5
+    </td>
+  </tr>
+  <tr>
+    <th align="left">
+      <a href="https://commons.nmu.edu/isbs/vol39/iss1">ISBS-2021</a><br>
+      <a href="https://isbs.org">ISBS</a>
+    </th>
+    <td align="left" colspan="2">
+      <b>Data Science and Sports Biomechanics Panel</b><br>
+      Video https://youtu.be/A_PeEtMN92k
+    </td>
+  </tr>
+</table>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <!--- 250803 Post-doc --->

@@ -120,8 +120,7 @@ Instructions to reconstitute files are given inline.<br>
       <a href="https://www.nsca.com">NSCA</a>
     </th>
     <td align="left" colspan="2">
-      <b>NSCA Baseball and Sport Science SIG Performance Technology Roundtable</b><br>
-      Video https://vimeo.com/627746779/74b81ecfd5
+      <b>NSCA Baseball and Sport Science SIG Performance Technology Roundtable</b>
     </td>
   </tr>
   <tr>

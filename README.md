@@ -4,7 +4,7 @@
   ---      digitalathlete/README.md, 22may2018
   ---
   --- 2. Original-Author, Email-Address
-  ---      Copyright (c) MMXX
+  ---      Copyright (c) MMXXV
   ---      William JOHNSON, bill@johnsonwr.com
   ---
   --- 3. Last-Updated-By, Email-Address
@@ -41,7 +41,7 @@
   ---
   --- 5. Modification-History
   ---      Build Author Date      Release
-  ---      a**   wrj    31dec2019 alpha (untracked)
+  ---      a**   wrj    10sep2025 alpha (untracked)
   --->
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
@@ -93,7 +93,7 @@ Instructions to reconstitute files are given inline.<br>
     </th>
     <td align="left" colspan="2">
       <b>Counter Movement Jump Positional Analysis in Collegiate Baseball Players</b><br>
-      https://www.mdpi.com/1424-8220/21/13/4535/pdf [13]
+      https://drive.google.com/file/d/1ROfkb08hfIUKPeMHQ-KM-K1lHAzdRnrs [13]
     </td>
   </tr>
   <tr>
@@ -134,7 +134,7 @@ Instructions to reconstitute files are given inline.<br>
       Video https://youtu.be/A_PeEtMN92k
     </td>
   </tr>
-</table>
+</table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <!--- 250803 Post-doc --->
@@ -332,6 +332,7 @@ https://www.fast.ai</td></tr>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <!--- 200501 Biomechanics resources, courses, groups & books --->
+<!---        https://transparencyreport.google.com/safe-browsing/search --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
 <h3>Biomechanics resources</h3>
 <table>
@@ -399,7 +400,7 @@ https://www.youtube.com/channel/UCy-HDqRqdYS3UUiCIqqfFxQ/videos</td></tr>
 <tr><th align="left">David G. Lloyd</th>
 <td align="left">
 <b>Menzies Health Institute Queensland, and the School of Allied Health Sciences, Griffith University, Gold Coast, Australia</b><br>
-https://experts.griffith.edu.au/academic/david.lloyd
+https://experts.griffith.edu.au/18616-david-lloyd
 </td></tr>
 </table><br><br>
 

@@ -82,10 +82,11 @@ Instructions to reconstitute files are given inline.<br>
 </td></tr>
 </table><br><br>
 
+
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 260314 Post-doc --->
+<!--- 260314 Post-doc.2026 --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<h3>Post-doc</h3>
+<h3>2026: Book chapter, paper</h3>
 <table>
   <tr>
     <th align="left">
@@ -105,6 +106,14 @@ Instructions to reconstitute files are given inline.<br>
       https://journals.sagepub.com/doi/10.1177/17479541261421108 [14]
     </td>
   </tr>
+</table><br><br>
+
+
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 260314 Post-doc --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<h3>Post-doc: Presentations, posters, panels, & session chairs</h3>
+<table>
   <tr>
     <th align="left">
       <a href="https://www.nsca.com/events/conferences/nscacon">NSCA-2025</a>

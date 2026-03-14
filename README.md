@@ -64,7 +64,7 @@ William R Johnson
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
 <a href="https://www.nsca.com/certification/cpss">CPSS,*D</a>
 <a href="https://www.nsca.com/certification/cscs">CSCS,*D</a> (he/him/his)
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | September 2025<br>
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | March 2026<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -83,10 +83,28 @@ Instructions to reconstitute files are given inline.<br>
 </table><br><br>
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 250910 Post-doc --->
+<!--- 260314 Post-doc --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<h3>Post-doc: Presentations, posters, panels, & session chairs</h3>
+<h3>Post-doc</h3>
 <table>
+  <tr>
+    <th align="left">
+      <a href="https://www.nsca.com/certification/cscs">NSCA</a>
+    </th>
+    <td align="left" colspan="2">
+      <b>Biomechanics of resistance exercise. In G. G. Haff & N. T. Triplett (Eds.), Essentials of Strength Training and Conditioning (5th ed., Chapter 2)</b><br>
+      https://www.nsca.com/certification/cscs/essentials-of-strength-training-and-conditioning-5th-edition [15]
+    </td>
+  </tr>
+  <tr>
+    <th align="left">
+      <a href="https://journals.sagepub.com/home/SPO">IJSSC</a>
+    </th>
+    <td align="left" colspan="2">
+      <b>Use of principal component analysis for identification of differences in countermovement jump metrics between positions in collegiate baseball</b><br>
+      https://journals.sagepub.com/doi/10.1177/17479541261421108 [14]
+    </td>
+  </tr>
   <tr>
     <th align="left">
       <a href="https://www.nsca.com/events/conferences/nscacon">NSCA-2025</a>

@@ -64,7 +64,7 @@ William R Johnson
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a> 
 <a href="https://www.nsca.com/certification/cpss">CPSS,*D</a>
 <a href="https://www.nsca.com/certification/cscs">CSCS,*D</a> (he/him/his)
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | March 2026<br>
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | July 2026<br>
 <a href="http://cv.billjohnson.org">cv.billjohnson.org</a> | <a href="http://videocv.billjohnson.org">videocv.billjohnson.org</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
@@ -84,9 +84,9 @@ Instructions to reconstitute files are given inline.<br>
 
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 260314 Post-doc.2026 --->
+<!--- 260705 Post-doc.2026 --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<h3>2026: Book chapter, paper</h3>
+<h3>2026: Publications & invited panel</h3>
 <table>
   <tr>
     <th align="left">
@@ -106,6 +106,17 @@ Instructions to reconstitute files are given inline.<br>
       https://journals.sagepub.com/doi/10.1177/17479541261421108 [14]
     </td>
   </tr>
+  <tr>
+    <th align="left">
+      <a href="https://www.ibm.com">IBM</a><br>
+      Miami, Florida
+    </th>
+    <td align="left" colspan="2">
+      <b>Invited Panelist — Sports, AI & Innovation</b><br>
+      Panel discussion on artificial intelligence in athlete performance, coaching, operations, and sports technology.<br>
+      https://www.linkedin.com/feed/update/urn:li:activity:7450674350145437696
+    </td>
+  </tr>  
 </table><br><br>
 
 

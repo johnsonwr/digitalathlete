@@ -382,6 +382,10 @@ https://www.fast.ai</td></tr>
 <tr><th align="left"><a href="https://www.clearinghouseforsport.gov.au">Clearinghouse<br>for Sport</a></th>
 <td align="left"><b>National 3D Motion Capture Best Practice Resources</b><br>
 https://www.clearinghouseforsport.gov.au/networks/3d-motion-capture</td></tr>
+<tr><th align="left">G. G. Haff<br>N. T. Triplett</th>
+<td align="left"><b>Essentials of Strength Training and Conditioning (5th ed.)</b><br>
+Chapter 2: Biomechanics of Resistance Exercise (Johnson & Lake)<br>
+https://www.nsca.com/certification/cscs/essentials-of-strength-training-and-conditioning-5th-edition</td></tr>
 <tr><th align="left">David Winter</th>
 <td align="left"><b>Biomechanics and Motor Control of Human Movement</b><br>
 https://www.amazon.com/Biomechanics-Motor-Control-Human-Movement/dp/0470398183</td></tr>

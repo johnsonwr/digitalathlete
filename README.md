@@ -270,7 +270,7 @@ Instructions to reconstitute files are given inline.<br>
 <td>
 Each study utilized an incremental sequence of data preparation and modeling strategies, which by study four had evolved into the "deep learning workbench for biomechanics."
 Although the individual data science components had previously existed in the literature, the approach was novel and unique in this configuration and application to sports biomechanics.
-<br><br><img src="_readme/fig01_workbench_v3.jpg" width="100%"></td></tr>
+<br><br><img src="_readme/fig01_workbench_v3.jpg" width=650></td></tr>
 <tr><th align="left"><a href="https://isb2019.com">ISB-2019</a><br><a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a></th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
 Abstract https://drive.google.com/file/d/1ISiQBZJUEie1JPniA4M5VoHW-DKEktg2 [10]<br>

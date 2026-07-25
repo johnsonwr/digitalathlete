@@ -67,7 +67,7 @@ William R Johnson
 <br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | July 2026<br>
 <a href="https://cv.johnsonwr.com">Curriculum vitae</a> |
 <a href="https://meet.johnsonwr.com">Schedule a meeting</a> | 
-<a href="https://orcid.org/0000-0002-6401-4597">ORCID</a>
+<a href="https://orcid.org/0000-0002-6401-4597">ORCID</a><br>
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
 <a href="https://scholar.google.com.au/citations?user=DwbHHFkAAAAJ&hl=en" title="Google Scholar"><img src="_readme/543883659e_blue_sq_trim_383px.png" width="32" height="32"></a>

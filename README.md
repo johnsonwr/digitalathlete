@@ -84,19 +84,84 @@ Instructions to reconstitute files are given inline.<br>
 
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<!--- 260705 Post-doc.2026 --->
+<!--- 260725 Research posters --->
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
-<h3>2026: Publications & invited panel</h3>
+<h3>2026: Research posters</h3>
 <table>
+
+  <tr>
+    <th align="left">
+      <a href="https://www.nsca.com/events/conferences/nscacon">NSCA-2026</a>
+    </th>
+    <td align="left" colspan="2">
+      <b>Longitudinal monitoring of CMJ and arm strength and mobility metrics reveals short-term deterioration patterns associated with injury in collegiate baseball pitchers</b><br>
+      https://drive.google.com/file/d/1khDL3bto80iWW4KLx9PnWNuhTXlUv_i6 [18]
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">
+      <a href="https://www.nsca.com/events/conferences/nscacon">NSCA-2026</a>
+    </th>
+    <td align="left" colspan="2">
+      <b>Association between countermovement jump force-time characteristics and 10-yard sprint performance in Division I collegiate baseball players</b><br>
+      https://drive.google.com/file/d/1b8poWHdC6Srs4NHGlFNTTs34uCeTIgNW [17]
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">
+      <a href="https://www.nsca.com/events/conferences/nscacon">NSCA-2026</a>
+    </th>
+    <td align="left" colspan="2">
+      <b>The effects of pitching on force-time metrics derived from the countermovement jump in collegiate baseball pitchers</b><br>
+      https://drive.google.com/file/d/1EXrghP8g6h2DsZG1slM08lSS4rj7Pe4A [16]
+    </td>
+  </tr>
+
+</table><br><br>
+
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<!--- 260725 Post-doc.2026 --->
+<!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
+<h3>2026: Publications & invited panels</h3>
+<table>
+  <tr>
+    <th align="left">
+      <a href="https://www.linkedin.com/posts/johnsonwr_i-really-enjoyed-working-with-brandon-and-share-7482588629798731776-TTio">LinkedIn</a><br>
+      July 2026
+    </th>
+    <td align="left" colspan="2">
+      <b>NBA Shooting Dashboard</b><br>
+      Interactive basketball shooting analytics dashboard integrating biomechanics research into coaching and organizational decision support.<br>
+      https://nbashootingresearch.netlify.app [19]
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Keywords</th>
+    <td width="450" align="left">
+      Biomechanics &#183; Resistance exercise &#183; Exercise science &#183; Strength & conditioning
+    </td>
+    <td rowspan="2">
+      <a href="https://www.nsca.com/certification/cscs/essentials-of-strength-training-and-conditioning-5th-edition">
+        <img src="_readme/E5 Front.jpg" width="220">
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <th align="left">
       <a href="https://www.nsca.com/certification/cscs">NSCA</a>
     </th>
-    <td align="left" colspan="2">
-      <b>Biomechanics of resistance exercise. In G. G. Haff & N. T. Triplett (Eds.), Essentials of Strength Training and Conditioning (5th ed., Chapter 2)</b><br>
+    <td align="left">
+      <b>Biomechanics of resistance exercise.</b>
+      In G. G. Haff &amp; N. T. Triplett (Eds.),
+      <i>Essentials of Strength Training and Conditioning</i> (5th ed., Chapter 2).<br>
       https://www.nsca.com/certification/cscs/essentials-of-strength-training-and-conditioning-5th-edition [15]
     </td>
   </tr>
+
   <tr>
     <th align="left">
       <a href="https://journals.sagepub.com/home/SPO">IJSSC</a>
@@ -109,7 +174,7 @@ Instructions to reconstitute files are given inline.<br>
   <tr>
     <th align="left">
       <a href="https://www.ibm.com">IBM</a><br>
-      Miami, Florida
+      Miami, FL
     </th>
     <td align="left" colspan="2">
       <b>Invited Panelist — Sports, AI & Innovation</b><br>
@@ -205,7 +270,7 @@ Instructions to reconstitute files are given inline.<br>
 <td>
 Each study utilized an incremental sequence of data preparation and modeling strategies, which by study four had evolved into the "deep learning workbench for biomechanics."
 Although the individual data science components had previously existed in the literature, the approach was novel and unique in this configuration and application to sports biomechanics.
-<br><br><img src="_readme/fig01_workbench_v3.jpg"></td></tr>
+<br><br><img src="_readme/fig01_workbench_v3.jpg" width="100%"></td></tr>
 <tr><th align="left"><a href="https://isb2019.com">ISB-2019</a><br><a href="https://isbweb.org">ISB</a>/<a href="https://asbweb.org">ASB</a></th><td align="left">
 <b>Multidimensional ground reaction forces predicted from a single sacrum-mounted accelerometer via deep learning</b><br>
 Abstract https://drive.google.com/file/d/1ISiQBZJUEie1JPniA4M5VoHW-DKEktg2 [10]<br>

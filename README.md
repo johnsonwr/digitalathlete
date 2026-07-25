@@ -64,8 +64,7 @@ William R Johnson
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a>
 <a href="https://www.nsca.com/certification/cpss">CPSS,*D</a>
 <a href="https://www.nsca.com/certification/cscs">CSCS,*D</a> (he/him)
-<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | July 2026
-<br>
+<br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | July 2026<br>
 <a href="https://cv.johnsonwr.com">Curriculum vitae</a> |
 <a href="https://meet.johnsonwr.com">Schedule a meeting</a> | 
 <a href="https://orcid.org/0000-0002-6401-4597">ORCID</a>

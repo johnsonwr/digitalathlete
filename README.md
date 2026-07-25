@@ -60,26 +60,21 @@ Using test sets from multi data-captures which include ground truth force plate 
 Driven by eight markers, study two GRF/M mean r>0.97, study three KJM mean r>0.88, and from five wearable sensor accelerometers, study four GRF mean r>0.87. 
 The overarching hypothesis, whether it is possible to build deep learning models which can mimic the physics behind human movement, specifically to replace force plate derived kinetic output, is supported.
 <br><br>
-
 William R Johnson
 <a href="https://www.uwa.edu.au/science/schools/school-of-human-sciences">PhD</a>
 <a href="https://www.nsca.com/certification/cpss">CPSS,*D</a>
 <a href="https://www.nsca.com/certification/cscs">CSCS,*D</a> (he/him)
-
 <br><a href="mailto:bill@johnsonwr.com">bill@johnsonwr.com</a> | July 2026
-
 <br>
 <a href="https://cv.johnsonwr.com">Curriculum vitae</a> |
 <a href="https://meet.johnsonwr.com">Schedule a meeting</a> | 
 <a href="https://orcid.org/0000-0002-6401-4597">ORCID</a>
-
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
 <a href="https://scholar.google.com.au/citations?user=DwbHHFkAAAAJ&hl=en" title="Google Scholar"><img src="_readme/543883659e_blue_sq_trim_383px.png" width="32" height="32"></a>
 <a href="http://www2.c-motion.com/products/visual3d" title="C-Motion"><img src="_readme/c-motion_background_white.png" width="120"></a>
 <a href="https://developer.nvidia.com/academic_gpu_seeding" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" width="140"></a>
 </td></tr>
-
 <tr><td>
 <img src="_readme/190127a_c3dmine_18111121240023_fig1_5mkr_fig2_cutR_dark_720p30w.gif">
 </td></tr>

@@ -4,7 +4,7 @@
   ---      digitalathlete/README.md, 22may2018
   ---
   --- 2. Original-Author, Email-Address
-  ---      Copyright (c) MMXXV
+  ---      Copyright (c) MMXXVI
   ---      William JOHNSON, bill@johnsonwr.com
   ---
   --- 3. Last-Updated-By, Email-Address
@@ -14,7 +14,7 @@
   ---      GitHub index to supplementary publication material (models, animations, figures, presentations)
   ---      URL target="_blank" doesn't seem to be supported
   ---
-  ---      http://digitalathlete.org
+  ---      https://digitalathlete.org
   ---      https://github.com/johnsonwr/digitalathlete
   ---
   ---      https://guides.github.com/features/mastering-markdown/
@@ -41,7 +41,7 @@
   ---
   --- 5. Modification-History
   ---      Build Author Date      Release
-  ---      a**   wrj    10sep2025 alpha (untracked)
+  ---      b01   wrj    26jul2026 beta
   --->
 
 <!--- ---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+ --->
@@ -71,8 +71,8 @@ William R Johnson
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
 <a href="https://scholar.google.com.au/citations?user=DwbHHFkAAAAJ&hl=en" title="Google Scholar"><img src="_readme/543883659e_blue_sq_trim_383px.png" width="32" height="32"></a>
-<a href="http://www2.c-motion.com/products/visual3d" title="C-Motion"><img src="_readme/c-motion_background_white.png" width="120"></a>
-<a href="https://developer.nvidia.com/academic_gpu_seeding" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" width="140"></a>
+<a href="https://www.has-motion.ca/visual3d" title="HasMotion"><img src="_readme/c-motion_background_white.png" width="120"></a>
+<a href="https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" width="140"></a>
 </td></tr>
 <tr><td>
 <img src="_readme/190127a_c3dmine_18111121240023_fig1_5mkr_fig2_cutR_dark_720p30w.gif">
@@ -174,8 +174,8 @@ Instructions to reconstitute files are given inline.<br>
     </th>
     <td align="left" colspan="2">
       <b>Invited Panelist — Sports, AI & Innovation</b><br>
-      Panel discussion on artificial intelligence in athlete performance, coaching, operations, and sports technology.<br>
-      https://www.linkedin.com/feed/update/urn:li:activity:7450674350145437696
+      Panel discussion on artificial intelligence in athlete performance, coaching, operations, and sports technology<br>
+      https://www.linkedin.com/posts/johnsonwr_i-really-enjoyed-being-part-of-this-conversation-share-7482586638812999681-48PN
     </td>
   </tr>  
 </table><br><br>
@@ -197,7 +197,7 @@ Instructions to reconstitute files are given inline.<br>
   </tr>
   <tr>
     <th align="left">
-      <a href="https://www.has-motion.ca">HAS-Motion<br>Kingston, Ontario</a>
+      <a href="https://www.has-motion.ca">HasMotion<br></a>Kingston, Ontario
     </th>
     <td align="left" colspan="2">
       <b>Biomechanics in Professional Baseball—Language & Motivations</b><br>
@@ -443,10 +443,6 @@ https://www.fast.ai</td></tr>
 <tr><th align="left"><a href="https://www.clearinghouseforsport.gov.au">Clearinghouse<br>for Sport</a></th>
 <td align="left"><b>National 3D Motion Capture Best Practice Resources</b><br>
 https://www.clearinghouseforsport.gov.au/networks/3d-motion-capture</td></tr>
-<tr><th align="left">G. G. Haff<br>N. T. Triplett</th>
-<td align="left"><b>Essentials of Strength Training and Conditioning (5th ed.)</b><br>
-Chapter 2: Biomechanics of Resistance Exercise (Johnson & Lake)<br>
-https://www.nsca.com/certification/cscs/essentials-of-strength-training-and-conditioning-5th-edition</td></tr>
 <tr><th align="left">David Winter</th>
 <td align="left"><b>Biomechanics and Motor Control of Human Movement</b><br>
 https://www.amazon.com/Biomechanics-Motor-Control-Human-Movement/dp/0470398183</td></tr>
@@ -517,12 +513,12 @@ This project was partially supported by the
 <a href="https://www.arc.gov.au/">ARC Discovery Grant DP190102443</a> 
 and an 
 <a href="https://www.education.gov.au/research-training-program">Australian Government Research Training Program Scholarship</a>. 
-<a href="https://developer.nvidia.com/academic_gpu_seeding">NVIDIA Corporation</a> 
+<a href="https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program">NVIDIA Corporation</a> 
 is gratefully acknowledged for the GPU provision through its Hardware Grant Program, 
 <a href="http://www.eigenvector.com/software/pls_toolbox.htm">Eigenvector Research</a> 
 for the PLS_Toolbox licence, and 
-<a href="http://www2.c-motion.com/products/visual3d">C-Motion Inc.</a> 
-for the Visual3D licence. Portions of data included in this study were funded by 
+<a href="https://www.has-motion.ca/visual3d">HasMotion</a> 
+for the Visual3D licence (then developed by C-Motion). Portions of data included in this study were funded by 
 <a href="https://nhmrc.gov.au/funding">NHMRC grant 400937</a>.
 </td></tr>
 </table><br><br>

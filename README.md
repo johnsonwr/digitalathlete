@@ -71,7 +71,7 @@ William R Johnson
 <a href="https://www.linkedin.com/in/johnsonwr" title="LinkedIn"><img src="_readme/In-2C-128px_edit.png" width="32" height="32"></a>
 <a href="https://www.researchgate.net/profile/William_Johnson54" title="ResearchGate"><img src="_readme/rg_330px_edit.png" width="32" height="32"></a>
 <a href="https://scholar.google.com.au/citations?user=DwbHHFkAAAAJ&hl=en" title="Google Scholar"><img src="_readme/543883659e_blue_sq_trim_383px.png" width="32" height="32"></a>
-<a href="https://www.has-motion.ca/visual3d" title="HasMotion"><img src="_readme/hasmotion_logo" width="120"></a>
+<a href="https://www.has-motion.ca/visual3d" title="HasMotion"><img src="_readme/hasmotion_logo.png" width="120"></a>
 <a href="https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program" title="NVIDIA"><img src="_readme/NVLogo_2D_H.png" width="140"></a>
 </td></tr>
 <tr><td>
